@@ -25,7 +25,9 @@ sidebar_label: "¿Dónde puedo encontrar información sobre los productos?"
 3. Busca la opción **'Consultar disponibilidad en tiendas'**
 4. Selecciona tu ciudad para ver el stock en cada tienda
 
-### 5. Lee opiniones de otros clientes Las opiniones de otros compradores te ayudarán a conocer la experiencia real con el producto. Puedes ver calificaciones y comentarios dejados por clientes que ya realizaron su compra. ⭐ Cómo ver las opiniones:
+### 5. Lee opiniones de otros clientes Las opiniones de otros compradores te ayudarán a conocer la experiencia real con el producto.
+
+Puedes ver calificaciones y comentarios dejados por clientes que ya realizaron su compra. ⭐ Cómo ver las opiniones:
 1. Ingresa a la página del producto
 2. Desplázate hacia la parte inferior de la descripción
 3. Busca la sección **'Opiniones'**

@@ -12,9 +12,9 @@ sidebar_label: "¿Qué debo hacer si sospecho de un intento de fraude?"
 
 
 ### 1. Recomendaciones Inmediatas Si recibes un mensaje, llamada, correo o enlace sospechoso en nombre de Alkosto, te recomendamos tomar las siguientes precauciones de inmediato:
-1. ▸ **No proporciones** datos personales, claves ni información financiera.
-2. ▸ **No hagas clic** en enlaces desconocidos o que redirijan fuera de nuestros dominios oficiales (como [alkosto.com](http://alkosto.com)).
-3. ▸ **No realices pagos** por fuera de nuestros canales autorizados.
+1. **No proporciones** datos personales, claves ni información financiera.
+2. **No hagas clic** en enlaces desconocidos o que redirijan fuera de nuestros dominios oficiales (como [alkosto.com](http://alkosto.com)).
+3. **No realices pagos** por fuera de nuestros canales autorizados.
 
 ### 2. Contacta con Nosotros En caso de duda, comunícate con nosotros **directamente** a través de nuestros canales oficiales para verificar la autenticidad de cualquier comunicación.
 

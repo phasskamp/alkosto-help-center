@@ -18,9 +18,9 @@ sidebar_label: "¿Qué debo hacer para saber cuándo hay promociones?"
 ### 3. Productos Exclusivos Descubre nuestra línea de **productos exclusivos**, diseñados especialmente para ofrecerte una experiencia única y diferenciadora. Estos productos no los encontrarás en ningún otro lugar. [Explorar Productos Exclusivos](https://www.alkosto.com/productos-exclusivos/c/productos-exclusivos)
 
 ## Consejos para no perderte ninguna promoción
-1. ▸**Activa las notificaciones:** Permite que te enviemos alertas por correo electrónico o WhatsApp cuando haya nuevas ofertas.
-2. ▸**Síguenos en redes sociales:** Publicamos nuestras promociones más recientes en nuestras redes oficiales.
-3. ▸**Visita regularmente:** Nuestras ofertas se actualizan constantemente, revisa nuestra página con frecuencia. 
+1. **Activa las notificaciones:** Permite que te enviemos alertas por correo electrónico o WhatsApp cuando haya nuevas ofertas.
+2. **Síguenos en redes sociales:** Publicamos nuestras promociones más recientes en nuestras redes oficiales.
+3. **Visita regularmente:** Nuestras ofertas se actualizan constantemente, revisa nuestra página con frecuencia. 
 
 :::info ¿Necesitas más ayuda?
 Si tienes dudas, puedes [contactar con soporte](/docs/contacto).

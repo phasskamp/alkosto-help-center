@@ -13,7 +13,9 @@ sidebar_label: "¿Cómo puedo tramitar la garantía de un producto adquirido en 
 :::
 
 
-### 1. Informa el Daño y Presenta el Producto Para iniciar el trámite, debes informar el daño que tiene el producto, la fecha de compra y ponerlo a disposición en la tienda Alkosto más cercana o en un Centro de Servicio Autorizado.
+### 1. Informa el Daño y Presenta el Producto
+
+Para iniciar el trámite, debes informar el daño que tiene el producto, la fecha de compra y ponerlo a disposición en la tienda Alkosto más cercana o en un Centro de Servicio Autorizado.
 
 ### 2. Acude a un Centro de Servicio Autorizado La forma más directa de tramitar la garantía es acudir a uno de los centros de servicio autorizados por la marca de tu producto. [Buscar Centros de Servicio](https://www.alkosto.com/tramites/tramites-garantia/centros-servicios)
 

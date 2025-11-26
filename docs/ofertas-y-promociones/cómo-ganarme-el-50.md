@@ -5,8 +5,7 @@ sidebar_label: "¿Cómo ganarme el 50%?"
 ---
 
 :::tip En este artículo aprenderás:
-* Qué es el programa Gana 50.
-* Cómo participar automáticamente con tus compras.
+* Qué es el programa Gana 50. Cómo participar automáticamente con tus compras.
 * Dónde consultar los términos y condiciones completos. 🎁
 :::
 
@@ -17,13 +16,15 @@ sidebar_label: "¿Cómo ganarme el 50%?"
 
 ### 2. ¿Cómo participo? Participar es muy fácil. Tu participación es **automática** cada vez que realizas una compra en Alkosto. ✓ Tienda física Cada compra que realices en cualquiera de nuestras tiendas físicas te hace participar automáticamente. ✓ Internet Tus compras en línea a través de [www.alkosto.com](http://www.alkosto.com) también participan automáticamente en el programa. **💡 Importante:** No necesitas hacer nada adicional. Solo compra y automáticamente estarás participando por tu bono del 50%.
 
-### 3. Términos y condiciones Para conocer todos los detalles del programa, las condiciones de participación y cómo redimir tu bono, consulta la información completa. [📋 Ver términos y condiciones completos](https://www.alkosto.com/gana-50)
+### 3. Términos y condiciones
+
+Para conocer todos los detalles del programa, las condiciones de participación y cómo redimir tu bono, consulta la información completa. [📋 Ver términos y condiciones completos](https://www.alkosto.com/gana-50)
 
 ## Preguntas frecuentes
-1. ▸ **¿Todas las compras participan?** Consulta los términos y condiciones para conocer las compras válidas y exclusiones.
-2. ▸ **¿Cómo sabré si gané?** Los ganadores son notificados según lo establecido en los términos del programa.
-3. ▸ **¿El bono tiene fecha de vencimiento?** Revisa los términos y condiciones para conocer la vigencia y condiciones de uso del bono.
-4. ▸ **¿Puedo participar varias veces?** Sí, cada compra que realices genera una nueva oportunidad de participar. 
+1. **¿Todas las compras participan?** Consulta los términos y condiciones para conocer las compras válidas y exclusiones.
+2. **¿Cómo sabré si gané?** Los ganadores son notificados según lo establecido en los términos del programa.
+3. **¿El bono tiene fecha de vencimiento?** Revisa los términos y condiciones para conocer la vigencia y condiciones de uso del bono.
+4. **¿Puedo participar varias veces?** Sí, cada compra que realices genera una nueva oportunidad de participar. 
 
 :::info ¿Necesitas más ayuda?
 Si tienes dudas, puedes [contactar con soporte](/docs/contacto).

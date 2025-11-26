@@ -21,12 +21,14 @@ sidebar_label: "Cómo obtener una copia de tu factura"
 
 ![Formulario de selección de tipo de documento](https://41k0st0.my.site.com/ayuda/servlet/rtaImage?eid=ka0Qm0000002BXF&feoid=00N8c00000H564C&refid=0EMQm00000IPRp7)
 
-### 3. Descarga tu Factura Una vez que el sistema encuentre tu compra, podrás descargar tu factura en formato PDF. ✅ ¡Listo! Guarda la copia de tu factura en un lugar seguro. Recuerda que es válida para garantías y devoluciones.
+### 3. Descarga tu Factura
+
+Una vez que el sistema encuentre tu compra, podrás descargar tu factura en formato PDF. ✅ ¡Listo! Guarda la copia de tu factura en un lugar seguro. Recuerda que es válida para garantías y devoluciones.
 
 ## ¿Problemas Frecuentes?
-1. ▸**No encuentro mi compra:** Verifica que estés usando el mismo tipo y número de documento que registraste en la compra.
-2. ▸**Error al descargar:** Intenta realizar la consulta desde otro navegador o dispositivo.
-3. ▸**Necesito una factura antigua:** El portal tiene un límite de tiempo para consultar facturas. Si no la encuentras, contacta a soporte. 
+1. **No encuentro mi compra:** Verifica que estés usando el mismo tipo y número de documento que registraste en la compra.
+2. **Error al descargar:** Intenta realizar la consulta desde otro navegador o dispositivo.
+3. **Necesito una factura antigua:** El portal tiene un límite de tiempo para consultar facturas. Si no la encuentras, contacta a soporte. 
 
 :::info ¿Necesitas más ayuda?
 Si tienes dudas, puedes [contactar con soporte](/docs/contacto).

@@ -21,12 +21,14 @@ sidebar_label: "¿Cómo puedo ponerme en contacto con ustedes?"
 
 ### 5. Tiendas Físicas Queremos asegurarnos de estar aquí cuando nos necesites. Visita nuestras tiendas físicas para una atención personalizada y consulta nuestros horarios de atención. [Ver Tiendas y Horarios](https://www.alkosto.com/nuestra-compania/tiendas)
 
-### 6. Centros de Servicio Para procesos de **garantía de tus productos**, puedes verificar la ubicación de nuestros centros de servicio autorizados según la marca de tu producto. [Buscar Centros de Servicio](https://www.alkosto.com/tramites/tramites-garantia/centros-servicios)
+### 6. Centros de Servicio
+
+Para procesos de **garantía de tus productos**, puedes verificar la ubicación de nuestros centros de servicio autorizados según la marca de tu producto. [Buscar Centros de Servicio](https://www.alkosto.com/tramites/tramites-garantia/centros-servicios)
 
 ## Elige el canal que prefieras
-1. ▸**Respuesta inmediata:** Usa el chat en línea para soluciones rápidas.
-2. ▸**Consultas detalladas:** El formulario de contacto es ideal para preguntas que requieren información específica.
-3. ▸**Atención personalizada:** Visita nuestras tiendas físicas para recibir ayuda cara a cara. 
+1. **Respuesta inmediata:** Usa el chat en línea para soluciones rápidas.
+2. **Consultas detalladas:** El formulario de contacto es ideal para preguntas que requieren información específica.
+3. **Atención personalizada:** Visita nuestras tiendas físicas para recibir ayuda cara a cara. 
 
 :::info ¿Necesitas más ayuda?
 Si tienes dudas, puedes [contactar con soporte](/docs/contacto).

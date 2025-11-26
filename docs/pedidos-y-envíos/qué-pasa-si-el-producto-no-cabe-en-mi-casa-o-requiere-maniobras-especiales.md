@@ -21,10 +21,10 @@ sidebar_label: "¿Qué pasa si el producto no cabe en mi casa o requiere maniobr
 ### 3. Servicio adicional disponible Si es necesario **desmontar puertas del producto** para facilitar su ingreso (por ejemplo, puertas de neveras o lavadoras), nuestros transportadores pueden ayudarte. 💵 Costo adicional Este servicio tiene un costo adicional que deberás pagar **en efectivo directamente al transportador** en el momento de la entrega. **💡 Consejo:** Consulta con el transportador el valor exacto de este servicio antes de solicitarlo.
 
 ## Recomendaciones antes de tu entrega
-1. ▸ **Mide todo:** Verifica las dimensiones del producto y compáralas con puertas, pasillos y ascensores.
-2. ▸ **Despeja el camino:** Asegúrate de tener libre el acceso desde la entrada hasta el lugar donde quedará el producto.
-3. ▸ **Considera el desmontaje:** Si el producto tiene puertas removibles, planifica si necesitarás este servicio adicional.
-4. ▸ **Ten efectivo disponible:** Si requieres servicios adicionales, prepara el pago en efectivo. 
+1. **Mide todo:** Verifica las dimensiones del producto y compáralas con puertas, pasillos y ascensores.
+2. **Despeja el camino:** Asegúrate de tener libre el acceso desde la entrada hasta el lugar donde quedará el producto.
+3. **Considera el desmontaje:** Si el producto tiene puertas removibles, planifica si necesitarás este servicio adicional.
+4. **Ten efectivo disponible:** Si requieres servicios adicionales, prepara el pago en efectivo. 
 
 :::info ¿Necesitas más ayuda?
 Si tienes dudas, puedes [contactar con soporte](/docs/contacto).

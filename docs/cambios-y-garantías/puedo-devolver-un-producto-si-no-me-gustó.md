@@ -27,7 +27,9 @@ sidebar_label: "¿Puedo devolver un producto si no me gustó?"
 * Tintas y cartuchos
 * Licores
 
-### 3. Verifica si tu Producto Aplica Para confirmar si tu producto es elegible para un cambio y conocer todos los detalles de nuestras políticas, visita el siguiente enlace: [Consultar Políticas de Cambios](https://www.alkosto.com/politicas/cambios-devoluciones) 
+### 3. Verifica si tu Producto Aplica
+
+Para confirmar si tu producto es elegible para un cambio y conocer todos los detalles de nuestras políticas, visita el siguiente enlace: [Consultar Políticas de Cambios](https://www.alkosto.com/politicas/cambios-devoluciones) 
 
 :::info ¿Necesitas más ayuda?
 Si tienes dudas, puedes [contactar con soporte](/docs/contacto).
