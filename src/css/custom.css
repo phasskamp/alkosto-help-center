@@ -104,12 +104,12 @@
 }
 
 /* Category titles in sidebar */
-.menu__list-item-collapsible > .menu__link {
+.menu__list-item-collapsible>.menu__link {
   font-weight: 600;
   color: var(--alkosto-blue);
 }
 
-[data-theme='dark'] .menu__list-item-collapsible > .menu__link {
+[data-theme='dark'] .menu__list-item-collapsible>.menu__link {
   color: white;
 }
 
@@ -154,7 +154,8 @@
   margin-bottom: 1.25rem;
 }
 
-.markdown ul, .markdown ol {
+.markdown ul,
+.markdown ol {
   margin-bottom: 1.25rem;
 }
 
@@ -166,6 +167,16 @@
   border-radius: 8px;
   box-shadow: var(--ifm-global-shadow-lw);
   margin: 1.5rem 0;
+  max-width: 100%;
+  width: auto;
+  max-height: 500px;
+  object-fit: contain;
+}
+
+/* Specific constraint for screenshots to avoid them being huge */
+.markdown p>img {
+  max-width: 600px;
+  display: block;
 }
 
 .markdown a {
