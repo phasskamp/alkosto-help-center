@@ -11,13 +11,19 @@ sidebar_label: "Cómo obtener una copia de tu factura"
 :::
 
 
-### 1. Ve a "Descarga tu factura" En la página principal de Alkosto, haz clic en **"Mi cuenta"** y luego selecciona la opción **"Descarga tu factura"**.
+### 1. Ve a "Descarga tu factura"
+
+En la página principal de Alkosto, haz clic en **"Mi cuenta"** y luego selecciona la opción **"Descarga tu factura"**.
+
 
 ![Opción Descarga tu factura en el menú](https://41k0st0.my.site.com/ayuda/servlet/rtaImage?eid=ka0Qm0000002BXF&feoid=00N8c00000H564C&refid=0EMQm00000IPdob)
 
 **💡 Consejo:** Esto te llevará a nuestro portal de descargas en una nueva pestaña.
 
-### 2. Consulta tu Factura Dentro del portal, haz clic en **"Consultar factura"**. Luego, selecciona el tipo de documento que registraste al hacer la compra e ingrésalo para encontrar tus facturas.
+### 2. Consulta tu Factura Dentro del portal, haz clic en **"Consultar factura"**.
+
+Luego, selecciona el tipo de documento que registraste al hacer la compra e ingrésalo para encontrar tus facturas.
+
 
 ![Formulario de selección de tipo de documento](https://41k0st0.my.site.com/ayuda/servlet/rtaImage?eid=ka0Qm0000002BXF&feoid=00N8c00000H564C&refid=0EMQm00000IPRp7)
 

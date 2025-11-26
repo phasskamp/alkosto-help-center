@@ -11,12 +11,18 @@ sidebar_label: "¿Puedo devolver un producto si no me gustó?"
 :::
 
 
-### 1. Condiciones para el Cambio Voluntario **Sí**, puedes solicitar el cambio de un producto por retracto voluntario si cumple con todas las siguientes condiciones:
+### 1.
+
+Condiciones para el Cambio Voluntario **Sí**, puedes solicitar el cambio de un producto por retracto voluntario si cumple con todas las siguientes condiciones:
+
 * El producto está **sin uso**, en perfectas condiciones estéticas y funcionales.
 * Conserva el **empaque original**, manuales, protectores y accesorios completos.
 * Han pasado **menos de 30 días** desde la entrega.
 
-### 2. Productos Excluidos de Cambios Voluntarios **⚠️ Importante:** Los siguientes productos no aplican para cambio voluntario, incluso si están nuevos o sin uso.
+### 2.
+
+Productos Excluidos de Cambios Voluntarios **⚠️ Importante:** Los siguientes productos no aplican para cambio voluntario, incluso si están nuevos o sin uso.
+
 * Pines y recargas
 * Servicios e instalaciones
 * Motos y bicicletas eléctricas

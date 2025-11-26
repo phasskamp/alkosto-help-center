@@ -13,15 +13,30 @@ sidebar_label: "¿Dónde puedo encontrar información sobre sus políticas y pri
 
 ## Políticas y Documentos Legales
 
-### 📋 Términos y Condiciones del Canal Digital Conoce las condiciones de uso de nuestro sitio web y plataforma digital. Aquí encontrarás toda la información sobre tu relación comercial con nosotros. [🔗 Ver Términos y Condiciones](https://www.alkosto.com/terminos-condiciones/sitio-web)
+### 📋 Términos y Condiciones del Canal Digital Conoce las condiciones de uso de nuestro sitio web y plataforma digital.
 
-### 🔒 Política de Privacidad y datos personales Tu privacidad es muy importante para nosotros. Queremos que te sientas seguro al compartir tu información con nosotros. [🔗 Ver Política de Privacidad](https://www.alkosto.com/politicas/privacidad) **💡 Importante:** Aquí también encuentras información sobre el tratamiento de datos personales.
+Aquí encontrarás toda la información sobre tu relación comercial con nosotros. [🔗 Ver Términos y Condiciones](https://www.alkosto.com/terminos-condiciones/sitio-web)
 
-### 🍪 Política de Cookies Para brindarte una mejor experiencia, utilizamos cookies en nuestra página web. Consulta cómo mejoramos tu navegación mientras protegemos tu privacidad. [🔗 Ver Política de Cookies](https://www.alkosto.com/politicas/cookies)
 
-### ⚖️ Código de Ética Nuestro compromiso con la ética es fundamental. Te invitamos a conocer nuestro Código de Ética, donde detallamos los principios que guían nuestras acciones. [🔗 Ver Código de Ética](https://multicrm.colcomercio.com.co/linea_etica/)
+### 🔒 Política de Privacidad y datos personales Tu privacidad es muy importante para nosotros.
 
-### 🛡️ Manual de Normas SST para Terceros Consulta el Manual de Normas SST para terceros, donde explicamos detalladamente las pautas de seguridad y salud en el trabajo que aplicamos. [📄 Descargar Manual SST](https://www.alkosto.com/medias/normas-de-sst-para-terceros.pdf) **📋 Nota:** Este documento se descarga en formato PDF. **📱 Información útil:**
+Queremos que te sientas seguro al compartir tu información con nosotros. [🔗 Ver Política de Privacidad](https://www.alkosto.com/politicas/privacidad) **💡 Importante:** Aquí también encuentras información sobre el tratamiento de datos personales.
+
+
+### 🍪 Política de Cookies Para brindarte una mejor experiencia, utilizamos cookies en nuestra página web.
+
+Consulta cómo mejoramos tu navegación mientras protegemos tu privacidad. [🔗 Ver Política de Cookies](https://www.alkosto.com/politicas/cookies)
+
+
+### ⚖️ Código de Ética Nuestro compromiso con la ética es fundamental.
+
+Te invitamos a conocer nuestro Código de Ética, donde detallamos los principios que guían nuestras acciones. [🔗 Ver Código de Ética](https://multicrm.colcomercio.com.co/linea_etica/)
+
+
+### 🛡️ Manual de Normas SST para Terceros
+
+Consulta el Manual de Normas SST para terceros, donde explicamos detalladamente las pautas de seguridad y salud en el trabajo que aplicamos. [📄 Descargar Manual SST](https://www.alkosto.com/medias/normas-de-sst-para-terceros.pdf) **📋 Nota:** Este documento se descarga en formato PDF. **📱 Información útil:**
+
 * Todas las políticas se actualizan periódicamente
 * Los documentos están disponibles las 24 horas
 * Puedes descargar o imprimir la información

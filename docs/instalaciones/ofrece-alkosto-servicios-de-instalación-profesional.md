@@ -11,7 +11,10 @@ sidebar_label: "¿Ofrece Alkosto servicios de instalación profesional?"
 :::
 
 
-### 1. Servicios de Instalación Profesional **Sí**, en Alkosto proporcionamos servicios de instalación profesional para una amplia variedad de productos, garantizando calidad y buenos precios. Algunos de los servicios disponibles son:
+### 1. Servicios de Instalación Profesional **Sí**, en Alkosto proporcionamos servicios de instalación profesional para una amplia variedad de productos, garantizando calidad y buenos precios.
+
+Algunos de los servicios disponibles son:
+
 * Televisores
 * Muebles
 * Estufas
@@ -25,7 +28,11 @@ sidebar_label: "¿Ofrece Alkosto servicios de instalación profesional?"
 
 ### 2. Instalación Gratuita con tu Compra
 
-### ¿Tu producto incluye instalación gratis? Algunos productos incluyen la instalación gratuita como un beneficio promocional. Esto está sujeto a marcas y modelos específicos. [Verificar si mi producto incluye instalación](https://www.alkosto.com/instalaciones) 
+
+### ¿Tu producto incluye instalación gratis? Algunos productos incluyen la instalación gratuita como un beneficio promocional.
+
+Esto está sujeto a marcas y modelos específicos. [Verificar si mi producto incluye instalación](https://www.alkosto.com/instalaciones)
+
 
 :::info ¿Necesitas más ayuda?
 Si tienes dudas, puedes [contactar con soporte](/docs/contacto).

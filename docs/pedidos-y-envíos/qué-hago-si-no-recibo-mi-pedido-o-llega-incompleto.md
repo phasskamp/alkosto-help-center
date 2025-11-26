@@ -11,9 +11,15 @@ sidebar_label: "¿Qué hago si no recibo mi pedido o llega incompleto?"
 :::
 
 
-### 1. Verifica el estado de tu pedido Antes de contactarnos, te recomendamos consultar el estado actual de tu entrega. Esto te ayudará a entender mejor la situación y nos permitirá atenderte de manera más eficiente. [👉 Seguir mi pedido ahora](https://www.alkosto.com/sigue-tu-pedido) **💡 Consejo:** Ten a mano tu número de pedido o factura para consultar el estado más rápidamente.
+### 1. Verifica el estado de tu pedido Antes de contactarnos, te recomendamos consultar el estado actual de tu entrega.
 
-### 2. Contacta a nuestro equipo Si después de verificar el estado necesitas ayuda adicional, comunícate con nuestro equipo de servicio al cliente. Estamos listos para ayudarte a resolver cualquier inconveniente. 📞 Servicio al Cliente (601) 407 3033 Horario de atención: Lunes a Sábado de 8:00 AM a 8:00 PM
+Esto te ayudará a entender mejor la situación y nos permitirá atenderte de manera más eficiente. [👉 Seguir mi pedido ahora](https://www.alkosto.com/sigue-tu-pedido) **💡 Consejo:** Ten a mano tu número de pedido o factura para consultar el estado más rápidamente.
+
+
+### 2. Contacta a nuestro equipo Si después de verificar el estado necesitas ayuda adicional, comunícate con nuestro equipo de servicio al cliente.
+
+Estamos listos para ayudarte a resolver cualquier inconveniente. 📞 Servicio al Cliente (601) 407 3033 Horario de atención: Lunes a Sábado de 8:00 AM a 8:00 PM
+
 
 ### 3. Prepara esta información
 

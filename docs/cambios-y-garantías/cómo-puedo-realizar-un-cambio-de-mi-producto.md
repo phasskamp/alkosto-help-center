@@ -11,13 +11,19 @@ sidebar_label: "¿Cómo puedo realizar un cambio de mi producto?"
 :::
 
 
-### 1. Verifica el Plazo y las Condiciones El tipo de trámite que puedes realizar depende del tiempo que ha transcurrido desde que recibiste el producto.
+### 1.
+
+Verifica el Plazo y las Condiciones El tipo de trámite que puedes realizar depende del tiempo que ha transcurrido desde que recibiste el producto.
+
 
 ### Dentro de los primeros 30 días: Puedes solicitar un **cambio o devolución** por falla del producto o por cambio de opinión.
 
 ### Después de 30 días: Corresponde un **trámite de garantía** únicamente por defectos de fábrica.
 
-### 2. Inicia tu Solicitud Visita nuestras políticas en línea para conocer los productos excluidos y comenzar tu trámite. [Ver Políticas y Tramitar Solicitud](https://www.alkosto.com/politicas/cambios-devoluciones) 
+### 2.
+
+Inicia tu Solicitud Visita nuestras políticas en línea para conocer los productos excluidos y comenzar tu trámite. [Ver Políticas y Tramitar Solicitud](https://www.alkosto.com/politicas/cambios-devoluciones)
+
 
 :::info ¿Necesitas más ayuda?
 Si tienes dudas, puedes [contactar con soporte](/docs/contacto).

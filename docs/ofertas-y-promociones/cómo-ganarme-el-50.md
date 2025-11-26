@@ -14,7 +14,12 @@ sidebar_label: "¿Cómo ganarme el 50%?"
 
 ### 1. ¿Qué es Gana 50? Gana 50 es nuestro programa de fidelidad que te permite participar automáticamente por un bono equivalente al **50% del valor de tu compra**. 🎯 Cada vez que compras en Alkosto, tienes la oportunidad de ganar la mitad del valor de tu compra en un bono para futuras compras.
 
-### 2. ¿Cómo participo? Participar es muy fácil. Tu participación es **automática** cada vez que realizas una compra en Alkosto. ✓ Tienda física Cada compra que realices en cualquiera de nuestras tiendas físicas te hace participar automáticamente. ✓ Internet Tus compras en línea a través de [www.alkosto.com](http://www.alkosto.com) también participan automáticamente en el programa. **💡 Importante:** No necesitas hacer nada adicional. Solo compra y automáticamente estarás participando por tu bono del 50%.
+### 2. ¿Cómo participo?
+
+Participar es muy fácil.
+
+Tu participación es **automática** cada vez que realizas una compra en Alkosto. ✓ Tienda física Cada compra que realices en cualquiera de nuestras tiendas físicas te hace participar automáticamente. ✓ Internet Tus compras en línea a través de [www.alkosto.com](http://www.alkosto.com) también participan automáticamente en el programa. **💡 Importante:** No necesitas hacer nada adicional. Solo compra y automáticamente estarás participando por tu bono del 50%.
+
 
 ### 3. Términos y condiciones
 

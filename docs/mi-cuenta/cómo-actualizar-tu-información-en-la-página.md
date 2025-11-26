@@ -11,11 +11,17 @@ sidebar_label: "Cómo actualizar tu información en la página"
 :::
 
 
-### 1. Accede a "Mi Perfil" Inicia sesión en tu cuenta desde **"Mi cuenta"**. Después de validar tu identidad con el código que te enviaremos, busca y haz clic en la sección **"Mi perfil"** en el menú de opciones.
+### 1. Accede a "Mi Perfil" Inicia sesión en tu cuenta desde **"Mi cuenta"**.
+
+Después de validar tu identidad con el código que te enviaremos, busca y haz clic en la sección **"Mi perfil"** en el menú de opciones.
+
 
 ![Botón Mi cuenta en desktop](https://41k0st0.my.site.com/ayuda/servlet/rtaImage?eid=ka0Qm0000002GqH&feoid=00N8c00000H564C&refid=0EMQm00000H6hYL)
 
-### 2. Actualiza tus Datos En esta sección podrás editar los siguientes campos:
+### 2. Actualiza tus Datos
+
+En esta sección podrás editar los siguientes campos:
+
 1.  Nombre completo
 2.  Número de cédula
 3.  Número de teléfono

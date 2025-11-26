@@ -11,14 +11,21 @@ sidebar_label: "¿Qué pasa si el producto no cabe en mi casa o requiere maniobr
 :::
 
 
-### 1. Si el producto no cabe Si por falta de espacio el producto no puede ser ingresado a tu hogar, lamentablemente se procederá con su **devolución**. **⚠️ Importante:** Antes de realizar tu compra, te recomendamos medir los espacios por donde debe pasar el producto (puertas, pasillos, escaleras, ascensores) y verificar las dimensiones del artículo en la ficha técnica.
+### 1. Si el producto no cabe
+
+Si por falta de espacio el producto no puede ser ingresado a tu hogar, lamentablemente se procederá con su **devolución**. **⚠️ Importante:** Antes de realizar tu compra, te recomendamos medir los espacios por donde debe pasar el producto (puertas, pasillos, escaleras, ascensores) y verificar las dimensiones del artículo en la ficha técnica.
+
 
 ### 2. Maniobras no autorizadas Por razones de seguridad, nuestros transportadores **NO están autorizados** para realizar las siguientes maniobras:
+
 * Usar poleas o sistemas de elevación externos.
 * Ascender por fachadas o balcones.
 * Maniobrar en espacios que representen peligro para su integridad. **🚫 Restricción:** Estas limitaciones buscan proteger tanto al personal de entrega como tu propiedad y el producto.
 
-### 3. Servicio adicional disponible Si es necesario **desmontar puertas del producto** para facilitar su ingreso (por ejemplo, puertas de neveras o lavadoras), nuestros transportadores pueden ayudarte. 💵 Costo adicional Este servicio tiene un costo adicional que deberás pagar **en efectivo directamente al transportador** en el momento de la entrega. **💡 Consejo:** Consulta con el transportador el valor exacto de este servicio antes de solicitarlo.
+### 3. Servicio adicional disponible
+
+Si es necesario **desmontar puertas del producto** para facilitar su ingreso (por ejemplo, puertas de neveras o lavadoras), nuestros transportadores pueden ayudarte. 💵 Costo adicional Este servicio tiene un costo adicional que deberás pagar **en efectivo directamente al transportador** en el momento de la entrega. **💡 Consejo:** Consulta con el transportador el valor exacto de este servicio antes de solicitarlo.
+
 
 ## Recomendaciones antes de tu entrega
 1. **Mide todo:** Verifica las dimensiones del producto y compáralas con puertas, pasillos y ascensores.

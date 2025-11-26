@@ -12,4 +12,7 @@ sidebar_label: "¿Sigue estos pasos para activar tu pin de Netflix?"
 2. Ingresa el PIN y dale “Canjear” y sigue las instrucción para terminar el proceso.​
 3. Para temas de soporte ingresa en tu perfil de Netflix en la opción “Ayuda” o “Soporte” que se encuentra en la parte inferior.​
 
-### Properties Fecha de creación de artículo Ayuda de Fecha de creación de artículo 17/07/2025, 2:51 p. m. Creado por [Philipp Hasskamp](/ayuda/s/?redirectPageContext=JTdCJTIydHlwZSUyMiUzQSUyMmRldGFpbCUyMiUyQyUyMmF0dHJpYnV0ZXMlMjIlM0ElN0IlMjJyZWNvcmRJZCUyMiUzQSUyMjAwNVFtMDAwMDA0QkdsVklBVyUyMiU3RCUyQyUyMnN0YXRlJTIyJTNBJTdCJTdEJTdE "Philipp Hasskamp"), 4/08/2025, 6:32 p. m. Última modificación por [Philipp Hasskamp](/ayuda/s/?redirectPageContext=JTdCJTIydHlwZSUyMiUzQSUyMmRldGFpbCUyMiUyQyUyMmF0dHJpYnV0ZXMlMjIlM0ElN0IlMjJyZWNvcmRJZCUyMiUzQSUyMjAwNVFtMDAwMDA0QkdsVklBVyUyMiU3RCUyQyUyMnN0YXRlJTIyJTNBJTdCJTdEJTdE "Philipp Hasskamp"), 4/08/2025, 6:33 p. m. Fecha de la última publicación 4/08/2025, 6:33 p. m.
+### Properties Fecha de creación de artículo Ayuda de Fecha de creación de artículo 17/07/2025, 2:51 p. m.
+
+Creado por [Philipp Hasskamp](/ayuda/s/?redirectPageContext=JTdCJTIydHlwZSUyMiUzQSUyMmRldGFpbCUyMiUyQyUyMmF0dHJpYnV0ZXMlMjIlM0ElN0IlMjJyZWNvcmRJZCUyMiUzQSUyMjAwNVFtMDAwMDA0QkdsVklBVyUyMiU3RCUyQyUyMnN0YXRlJTIyJTNBJTdCJTdEJTdE "Philipp Hasskamp"), 4/08/2025, 6:32 p. m. Última modificación por [Philipp Hasskamp](/ayuda/s/?redirectPageContext=JTdCJTIydHlwZSUyMiUzQSUyMmRldGFpbCUyMiUyQyUyMmF0dHJpYnV0ZXMlMjIlM0ElN0IlMjJyZWNvcmRJZCUyMiUzQSUyMjAwNVFtMDAwMDA0QkdsVklBVyUyMiU3RCUyQyUyMnN0YXRlJTIyJTNBJTdCJTdEJTdE "Philipp Hasskamp"), 4/08/2025, 6:33 p. m. Fecha de la última publicación 4/08/2025, 6:33 p. m.
+

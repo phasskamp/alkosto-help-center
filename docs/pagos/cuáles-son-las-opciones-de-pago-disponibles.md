@@ -11,14 +11,19 @@ sidebar_label: "¿Cuáles son las opciones de pago disponibles?"
 :::
 
 
-### 1. Opciones de Pago Principales En Alkosto te ofrecemos múltiples formas de pago para brindarte la máxima comodidad y flexibilidad en tus compras:
+### 1. Opciones de Pago Principales
+
+En Alkosto te ofrecemos múltiples formas de pago para brindarte la máxima comodidad y flexibilidad en tus compras:
+
 1. **Tarjetas de crédito:** Visa, MasterCard, American Express y más.
 2. **Tarjetas débito:** Pagos inmediatos desde tu cuenta bancaria.
 3. **PSE:** Transferencias bancarias seguras en línea.
 4. **Efectivo:** A través de puntos de pago autorizados.
 5. **Financiación:** Planes de cuotas, Crédito Alkosto y Addi.
 
-### 2. Pagos Seguros y Confiables Todos nuestros medios de pago cuentan con la máxima seguridad y certificaciones internacionales para proteger tu información financiera. ✅ Tu compra es 100% segura. Utilizamos tecnologías de encriptación para garantizar la protección de tus datos en cada transacción.
+### 2. Pagos Seguros y Confiables
+
+Todos nuestros medios de pago cuentan con la máxima seguridad y certificaciones internacionales para proteger tu información financiera. ✅ Tu compra es 100% segura. Utilizamos tecnologías de encriptación para garantizar la protección de tus datos en cada transacción.
 
 ### 3. Consulta Todos los Detalles
 
