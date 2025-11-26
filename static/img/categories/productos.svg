@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <!-- TV/Monitor -->
+  <rect x="20" y="25" width="60" height="45" rx="4" fill="#0A2540"/>
+  <rect x="24" y="29" width="52" height="37" rx="2" fill="#4FC3F7"/>
+  <!-- TV stand -->
+  <rect x="40" y="70" width="20" height="5" fill="#0A2540"/>
+  <rect x="35" y="75" width="30" height="4" rx="2" fill="#666"/>
+  <!-- Smartphone -->
+  <rect x="75" y="40" width="25" height="45" rx="4" fill="#0A2540"/>
+  <rect x="78" y="45" width="19" height="32" rx="1" fill="#81D4FA"/>
+  <circle cx="87.5" cy="80" r="2" fill="#666"/>
+  <!-- Box/Product -->
+  <rect x="15" y="85" width="30" height="25" rx="3" fill="#FFE4C4" stroke="#F7931E" stroke-width="2"/>
+  <line x1="30" y1="85" x2="30" y2="110" stroke="#F7931E" stroke-width="2" stroke-dasharray="3 3"/>
+  <!-- Magnifying glass -->
+  <circle cx="95" cy="20" r="12" stroke="#F7931E" stroke-width="3" fill="none"/>
+  <line x1="103" y1="28" x2="112" y2="37" stroke="#F7931E" stroke-width="3" stroke-linecap="round"/>
+</svg>

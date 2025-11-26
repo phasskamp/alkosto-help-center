@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 50" fill="none">
+  <!-- Alkosto logo - stylized text version -->
+  <g fill="white">
+    <!-- Border/frame -->
+    <rect x="2" y="8" width="176" height="34" rx="6" stroke="white" stroke-width="3" fill="none"/>
+    <!-- ALKOSTO text -->
+    <text x="90" y="33" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="22" font-weight="900" letter-spacing="2">ALKOSTO</text>
+  </g>
+</svg>

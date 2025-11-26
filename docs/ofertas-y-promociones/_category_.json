@@ -1,0 +1,9 @@
+{
+  "label": "Ofertas y Promociones",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Descubre Gana 50, hiperofertas y productos exclusivos."
+  }
+}

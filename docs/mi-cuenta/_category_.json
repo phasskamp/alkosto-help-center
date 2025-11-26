@@ -1,0 +1,9 @@
+{
+  "label": "Mi cuenta",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Gestiona tu perfil, acceso y contraseña de forma rápida y segura."
+  }
+}

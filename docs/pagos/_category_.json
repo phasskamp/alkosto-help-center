@@ -1,0 +1,9 @@
+{
+  "label": "Pagos",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Métodos aceptados, seguridad, solución de problemas y facturación electrónica."
+  }
+}

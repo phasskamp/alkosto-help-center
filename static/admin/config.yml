@@ -1,0 +1,131 @@
+backend:
+  name: git-gateway
+  branch: main
+
+local_backend: true
+
+media_folder: "static/img/uploads"
+public_folder: "/img/uploads"
+
+locale: "es"
+
+collections:
+  - name: "mi-cuenta"
+    label: "Mi Cuenta"
+    folder: "docs/mi-cuenta"
+    create: true
+    slug: "{{slug}}"
+    extension: md
+    fields:
+      - { label: "ID", name: "id", widget: "string" }
+      - { label: "Titulo", name: "title", widget: "string" }
+      - { label: "Etiqueta Sidebar", name: "sidebar_label", widget: "string" }
+      - { label: "Contenido", name: "body", widget: "markdown" }
+
+  - name: "pedidos-y-envios"
+    label: "Pedidos y Envios"
+    folder: "docs/pedidos-y-envíos"
+    create: true
+    slug: "{{slug}}"
+    extension: md
+    fields:
+      - { label: "ID", name: "id", widget: "string" }
+      - { label: "Titulo", name: "title", widget: "string" }
+      - { label: "Etiqueta Sidebar", name: "sidebar_label", widget: "string" }
+      - { label: "Contenido", name: "body", widget: "markdown" }
+
+  - name: "pagos"
+    label: "Pagos"
+    folder: "docs/pagos"
+    create: true
+    slug: "{{slug}}"
+    extension: md
+    fields:
+      - { label: "ID", name: "id", widget: "string" }
+      - { label: "Titulo", name: "title", widget: "string" }
+      - { label: "Etiqueta Sidebar", name: "sidebar_label", widget: "string" }
+      - { label: "Contenido", name: "body", widget: "markdown" }
+
+  - name: "cambios-y-garantias"
+    label: "Cambios y Garantias"
+    folder: "docs/cambios-y-garantías"
+    create: true
+    slug: "{{slug}}"
+    extension: md
+    fields:
+      - { label: "ID", name: "id", widget: "string" }
+      - { label: "Titulo", name: "title", widget: "string" }
+      - { label: "Etiqueta Sidebar", name: "sidebar_label", widget: "string" }
+      - { label: "Contenido", name: "body", widget: "markdown" }
+
+  - name: "productos"
+    label: "Productos"
+    folder: "docs/productos"
+    create: true
+    slug: "{{slug}}"
+    extension: md
+    fields:
+      - { label: "ID", name: "id", widget: "string" }
+      - { label: "Titulo", name: "title", widget: "string" }
+      - { label: "Etiqueta Sidebar", name: "sidebar_label", widget: "string" }
+      - { label: "Contenido", name: "body", widget: "markdown" }
+
+  - name: "instalaciones"
+    label: "Instalaciones"
+    folder: "docs/instalaciones"
+    create: true
+    slug: "{{slug}}"
+    extension: md
+    fields:
+      - { label: "ID", name: "id", widget: "string" }
+      - { label: "Titulo", name: "title", widget: "string" }
+      - { label: "Etiqueta Sidebar", name: "sidebar_label", widget: "string" }
+      - { label: "Contenido", name: "body", widget: "markdown" }
+
+  - name: "ofertas-y-promociones"
+    label: "Ofertas y Promociones"
+    folder: "docs/ofertas-y-promociones"
+    create: true
+    slug: "{{slug}}"
+    extension: md
+    fields:
+      - { label: "ID", name: "id", widget: "string" }
+      - { label: "Titulo", name: "title", widget: "string" }
+      - { label: "Etiqueta Sidebar", name: "sidebar_label", widget: "string" }
+      - { label: "Contenido", name: "body", widget: "markdown" }
+
+  - name: "contacto"
+    label: "Contacto"
+    folder: "docs/contacto"
+    create: true
+    slug: "{{slug}}"
+    extension: md
+    fields:
+      - { label: "ID", name: "id", widget: "string" }
+      - { label: "Titulo", name: "title", widget: "string" }
+      - { label: "Etiqueta Sidebar", name: "sidebar_label", widget: "string" }
+      - { label: "Contenido", name: "body", widget: "markdown" }
+
+  - name: "politicas-y-privacidad"
+    label: "Politicas y Privacidad"
+    folder: "docs/políticas-y-privacidad"
+    create: true
+    slug: "{{slug}}"
+    extension: md
+    fields:
+      - { label: "ID", name: "id", widget: "string" }
+      - { label: "Titulo", name: "title", widget: "string" }
+      - { label: "Etiqueta Sidebar", name: "sidebar_label", widget: "string" }
+      - { label: "Contenido", name: "body", widget: "markdown" }
+
+  - name: "pines"
+    label: "Pines"
+    folder: "docs/pines"
+    create: true
+    slug: "{{slug}}"
+    extension: md
+    fields:
+      - { label: "ID", name: "id", widget: "string" }
+      - { label: "Titulo", name: "title", widget: "string" }
+      - { label: "Etiqueta Sidebar", name: "sidebar_label", widget: "string" }
+      - { label: "Contenido", name: "body", widget: "markdown" }

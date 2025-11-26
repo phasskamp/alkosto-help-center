@@ -1,0 +1,9 @@
+{
+  "label": "Políticas y Privacidad",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Términos, privacidad, tratamiento de datos y compromiso ético."
+  }
+}

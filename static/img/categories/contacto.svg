@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <!-- Headset/Support person -->
+  <circle cx="60" cy="45" r="25" fill="#FFD6B3"/>
+  <!-- Face -->
+  <circle cx="52" cy="42" r="3" fill="#0A2540"/>
+  <circle cx="68" cy="42" r="3" fill="#0A2540"/>
+  <path d="M52 55 Q60 62 68 55" stroke="#0A2540" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Headset -->
+  <path d="M35 45 Q35 20 60 20 Q85 20 85 45" stroke="#0A2540" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <rect x="30" y="40" width="10" height="18" rx="4" fill="#F7931E"/>
+  <rect x="80" y="40" width="10" height="18" rx="4" fill="#F7931E"/>
+  <!-- Microphone -->
+  <path d="M85 55 Q95 55 95 65 L95 70" stroke="#0A2540" stroke-width="3" fill="none"/>
+  <circle cx="95" cy="73" r="5" fill="#0A2540"/>
+  <!-- Chat bubbles -->
+  <rect x="15" y="80" width="35" height="20" rx="10" fill="#E3F2FD"/>
+  <path d="M25 100 L20 110 L35 100" fill="#E3F2FD"/>
+  <circle cx="25" cy="90" r="2" fill="#0A2540"/>
+  <circle cx="32" cy="90" r="2" fill="#0A2540"/>
+  <circle cx="39" cy="90" r="2" fill="#0A2540"/>
+  <!-- Second chat bubble -->
+  <rect x="70" y="85" width="30" height="18" rx="9" fill="#F7931E" opacity="0.3"/>
+</svg>

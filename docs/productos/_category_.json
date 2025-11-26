@@ -1,0 +1,9 @@
+{
+  "label": "Productos",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Consulta especificaciones, disponibilidad y opiniones de otros compradores."
+  }
+}

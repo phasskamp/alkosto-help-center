@@ -1,0 +1,275 @@
+/**
+ * Alkosto Help Center - Global Styles
+ */
+
+/* Import Inter Font */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* ========================================
+   CSS VARIABLES
+   ======================================== */
+:root {
+  /* Typography */
+  --ifm-font-family-base: 'Inter', system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  --ifm-heading-font-family: 'Inter', system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+
+  /* Brand Colors */
+  --ifm-color-primary: #F7931E;
+  --ifm-color-primary-dark: #e8850f;
+  --ifm-color-primary-darker: #d17d19;
+  --ifm-color-primary-darkest: #ac6715;
+  --ifm-color-primary-light: #f89e35;
+  --ifm-color-primary-lighter: #f9a940;
+  --ifm-color-primary-lightest: #fbb362;
+
+  /* Alkosto Blue */
+  --alkosto-blue: #0A2540;
+  --alkosto-blue-light: #0D3A5C;
+
+  /* Layout */
+  --ifm-navbar-height: 64px;
+  --ifm-container-width: 1140px;
+  --ifm-code-font-size: 95%;
+
+  /* Cards & Shadows */
+  --ifm-card-border-radius: 12px;
+  --ifm-global-shadow-lw: 0 2px 8px rgba(0, 0, 0, 0.08);
+  --ifm-global-shadow-md: 0 5px 20px rgba(0, 0, 0, 0.12);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #F7931E;
+  --ifm-color-primary-dark: #e8850f;
+  --ifm-color-primary-darker: #d17d19;
+  --ifm-color-primary-darkest: #ac6715;
+  --ifm-color-primary-light: #f89e35;
+  --ifm-color-primary-lighter: #f9a940;
+  --ifm-color-primary-lightest: #fbb362;
+}
+
+/* ========================================
+   NAVBAR
+   ======================================== */
+.navbar {
+  background: var(--alkosto-blue);
+  box-shadow: none;
+}
+
+.navbar__title {
+  color: white;
+  font-weight: 600;
+}
+
+.navbar__link {
+  color: rgba(255, 255, 255, 0.9);
+  font-weight: 500;
+}
+
+.navbar__link:hover {
+  color: white;
+}
+
+.navbar__link--active {
+  color: white;
+}
+
+/* Hide navbar on homepage */
+.homepage-nav .navbar {
+  background: transparent;
+  position: absolute;
+  width: 100%;
+}
+
+/* ========================================
+   SIDEBAR NAVIGATION
+   ======================================== */
+.menu__link {
+  font-size: 0.9rem;
+  border-radius: 6px;
+  padding: 0.5rem 0.75rem;
+}
+
+.menu__link--active {
+  background: rgba(247, 147, 30, 0.1);
+  color: var(--ifm-color-primary);
+  font-weight: 500;
+}
+
+.menu__link:hover:not(.menu__link--active) {
+  background: rgba(0, 0, 0, 0.03);
+}
+
+[data-theme='dark'] .menu__link:hover:not(.menu__link--active) {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+/* Category titles in sidebar */
+.menu__list-item-collapsible > .menu__link {
+  font-weight: 600;
+  color: var(--alkosto-blue);
+}
+
+[data-theme='dark'] .menu__list-item-collapsible > .menu__link {
+  color: white;
+}
+
+/* ========================================
+   ARTICLE CONTENT
+   ======================================== */
+.markdown {
+  --ifm-h1-font-size: 2.25rem;
+  --ifm-h2-font-size: 1.5rem;
+  --ifm-h3-font-size: 1.25rem;
+  line-height: 1.7;
+  font-size: 1rem;
+}
+
+.markdown h1 {
+  margin-bottom: 1.5rem;
+  font-weight: 700;
+  color: var(--alkosto-blue);
+}
+
+[data-theme='dark'] .markdown h1 {
+  color: white;
+}
+
+.markdown h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #eee;
+}
+
+[data-theme='dark'] .markdown h2 {
+  border-bottom-color: #333;
+}
+
+.markdown h3 {
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+.markdown p {
+  margin-bottom: 1.25rem;
+}
+
+.markdown ul, .markdown ol {
+  margin-bottom: 1.25rem;
+}
+
+.markdown li {
+  margin-bottom: 0.5rem;
+}
+
+.markdown img {
+  border-radius: 8px;
+  box-shadow: var(--ifm-global-shadow-lw);
+  margin: 1.5rem 0;
+}
+
+.markdown a {
+  color: var(--ifm-color-primary);
+  font-weight: 500;
+}
+
+.markdown a:hover {
+  text-decoration: underline;
+}
+
+/* ========================================
+   BREADCRUMBS
+   ======================================== */
+.breadcrumbs {
+  margin-bottom: 1.5rem;
+}
+
+.breadcrumbs__link {
+  color: #666;
+  font-size: 0.875rem;
+}
+
+.breadcrumbs__link:hover {
+  color: var(--ifm-color-primary);
+}
+
+/* ========================================
+   DOC PAGE LAYOUT
+   ======================================== */
+/* Hide unnecessary elements */
+.theme-doc-footer-edit-meta-row {
+  display: none;
+}
+
+/* Pagination */
+.pagination-nav__link {
+  border-radius: 8px;
+  border-color: #eee;
+  transition: all 0.2s ease;
+}
+
+.pagination-nav__link:hover {
+  border-color: var(--ifm-color-primary);
+}
+
+.pagination-nav__sublabel {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.pagination-nav__label {
+  color: var(--ifm-color-primary);
+  font-weight: 500;
+}
+
+/* ========================================
+   FOOTER
+   ======================================== */
+.footer {
+  background: var(--alkosto-blue);
+}
+
+.footer__title {
+  color: white;
+  font-weight: 600;
+}
+
+.footer__link-item {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.footer__link-item:hover {
+  color: white;
+}
+
+.footer__copyright {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 0.875rem;
+}
+
+/* ========================================
+   SEARCH (Algolia DocSearch)
+   ======================================== */
+.DocSearch-Button {
+  border-radius: 8px !important;
+}
+
+/* ========================================
+   UTILITIES
+   ======================================== */
+/* Hide "Source" and "Date" metadata in articles */
+.theme-doc-markdown p:has(strong:first-child) {
+  display: none;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Better focus states */
+*:focus-visible {
+  outline: 2px solid var(--ifm-color-primary);
+  outline-offset: 2px;
+}
