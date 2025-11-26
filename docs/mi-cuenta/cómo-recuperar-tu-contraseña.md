@@ -113,7 +113,9 @@ Se abrirá tu navegador donde podrás crear tu **nueva contraseña**. [↑ Volve
 * Usa números y símbolos especiales
 * No uses información personal obvia
 
-## ✓ ¡Listo! Contraseña actualizada ✅ Tu contraseña ha sido actualizada exitosamente.
+## ✓ ¡Listo! Contraseña actualizada
+
+✅ Tu contraseña ha sido actualizada exitosamente.
 
 Ya puedes iniciar sesión con tu nueva contraseña.
 
