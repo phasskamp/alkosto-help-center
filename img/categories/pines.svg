@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <!-- Gaming controller -->
+  <rect x="20" y="45" width="55" height="35" rx="17" fill="#0A2540"/>
+  <!-- D-pad -->
+  <rect x="30" y="55" width="6" height="16" rx="1" fill="#444"/>
+  <rect x="26" y="59" width="14" height="6" rx="1" fill="#444"/>
+  <!-- Buttons -->
+  <circle cx="58" cy="55" r="4" fill="#E53935"/>
+  <circle cx="66" cy="62" r="4" fill="#4CAF50"/>
+  <circle cx="58" cy="69" r="4" fill="#2196F3"/>
+  <circle cx="50" cy="62" r="4" fill="#FFC107"/>
+  <!-- Joysticks -->
+  <circle cx="38" y="72" r="5" fill="#666"/>
+  <circle cx="55" cy="72" r="5" fill="#666"/>
+  <!-- Gift card / PIN card -->
+  <rect x="65" y="25" width="40" height="28" rx="4" fill="#F7931E"/>
+  <rect x="70" y="35" width="20" height="4" rx="2" fill="rgba(255,255,255,0.4)"/>
+  <rect x="70" y="42" width="12" height="4" rx="2" fill="rgba(255,255,255,0.4)"/>
+  <!-- Stars/sparkles -->
+  <path d="M95 70 L97 75 L102 75 L98 78 L100 83 L95 80 L90 83 L92 78 L88 75 L93 75 Z" fill="#FFD700"/>
+  <path d="M85 90 L86.5 94 L91 94 L87.5 96.5 L89 100 L85 98 L81 100 L82.5 96.5 L79 94 L83.5 94 Z" fill="#FFD700"/>
+  <!-- Netflix/streaming hint -->
+  <rect x="15" y="90" width="30" height="20" rx="3" fill="#E50914"/>
+  <text x="30" y="104" text-anchor="middle" fill="white" font-size="10" font-weight="bold">PIN</text>
+</svg>

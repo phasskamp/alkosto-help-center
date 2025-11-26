@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <!-- Price tag -->
+  <path d="M25 50 L70 25 L95 50 L70 75 Z" fill="#F7931E"/>
+  <circle cx="80" cy="42" r="5" fill="white"/>
+  <!-- Percentage symbol -->
+  <text x="55" y="58" fill="white" font-size="20" font-weight="bold">%</text>
+  <!-- Smartphone with offer -->
+  <rect x="60" y="55" width="35" height="55" rx="4" fill="#0A2540"/>
+  <rect x="64" y="60" width="27" height="42" rx="2" fill="#4FC3F7"/>
+  <!-- Sale badge -->
+  <circle cx="77.5" cy="81" r="12" fill="#E53935"/>
+  <text x="77.5" y="85" text-anchor="middle" fill="white" font-size="10" font-weight="bold">-50%</text>
+  <!-- Stars -->
+  <path d="M25 85 L27 90 L32 90 L28 93 L30 98 L25 95 L20 98 L22 93 L18 90 L23 90 Z" fill="#FFD700"/>
+  <path d="M40 95 L41.5 99 L46 99 L42.5 101.5 L44 105 L40 103 L36 105 L37.5 101.5 L34 99 L38.5 99 Z" fill="#FFD700"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <!-- Person (technician) -->
+  <circle cx="75" cy="30" r="14" fill="#FFD6B3"/>
+  <circle cx="71" cy="28" r="2" fill="#0A2540"/>
+  <circle cx="79" cy="28" r="2" fill="#0A2540"/>
+  <path d="M72 35 Q75 38 78 35" stroke="#0A2540" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- Hard hat -->
+  <path d="M60 25 Q75 12 90 25" fill="#F7931E"/>
+  <rect x="62" y="23" width="26" height="4" fill="#F7931E"/>
+  <!-- Body -->
+  <path d="M55 95 Q55 60 75 55 Q95 60 95 95" fill="#0A2540"/>
+  <!-- Tool belt -->
+  <rect x="60" y="72" width="30" height="6" fill="#8B4513"/>
+  <!-- Ladder -->
+  <rect x="15" y="20" width="6" height="85" fill="#666"/>
+  <rect x="35" y="20" width="6" height="85" fill="#666"/>
+  <rect x="15" y="30" width="26" height="4" fill="#888"/>
+  <rect x="15" y="50" width="26" height="4" fill="#888"/>
+  <rect x="15" y="70" width="26" height="4" fill="#888"/>
+  <rect x="15" y="90" width="26" height="4" fill="#888"/>
+  <!-- Wrench in hand -->
+  <rect x="88" y="65" width="20" height="6" rx="2" fill="#C0C0C0" transform="rotate(30 88 65)"/>
+</svg>

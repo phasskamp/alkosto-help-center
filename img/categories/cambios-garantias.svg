@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <!-- Shield -->
+  <path d="M60 15 L95 30 L95 60 Q95 90 60 105 Q25 90 25 60 L25 30 Z" fill="#F7931E" opacity="0.15"/>
+  <path d="M60 15 L95 30 L95 60 Q95 90 60 105 Q25 90 25 60 L25 30 Z" stroke="#F7931E" stroke-width="3" fill="none"/>
+  <!-- Checkmark inside shield -->
+  <path d="M45 55 L55 65 L75 45" stroke="#F7931E" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Rotating arrows (change/exchange symbol) -->
+  <path d="M85 85 Q100 85 100 70" stroke="#0A2540" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M100 70 L97 75 L103 75 Z" fill="#0A2540"/>
+  <path d="M35 85 Q20 85 20 100" stroke="#0A2540" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M20 100 L23 95 L17 95 Z" fill="#0A2540"/>
+</svg>
