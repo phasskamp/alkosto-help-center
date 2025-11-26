@@ -3,7 +3,7 @@
   "collapsible": true,
   "collapsed": true,
   "link": {
-    "type": "generated-index",
-    "description": "Todo sobre compras, seguimiento, opciones de entrega y recogida en tienda."
+    "type": "doc",
+    "id": "index"
   }
 }

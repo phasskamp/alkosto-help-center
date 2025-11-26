@@ -3,7 +3,7 @@
   "collapsible": true,
   "collapsed": true,
   "link": {
-    "type": "generated-index",
-    "description": "Descubre como utilizar los pines comprados en Alkosto."
+    "type": "doc",
+    "id": "index"
   }
 }

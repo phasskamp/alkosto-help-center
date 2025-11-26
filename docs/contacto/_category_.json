@@ -3,7 +3,7 @@
   "collapsible": true,
   "collapsed": true,
   "link": {
-    "type": "generated-index",
-    "description": "Chats, formularios, horarios de atención y ubicación de tiendas."
+    "type": "doc",
+    "id": "index"
   }
 }

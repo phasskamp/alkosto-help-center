@@ -3,7 +3,7 @@
   "collapsible": true,
   "collapsed": true,
   "link": {
-    "type": "generated-index",
-    "description": "Consulta especificaciones, disponibilidad y opiniones de otros compradores."
+    "type": "doc",
+    "id": "index"
   }
 }

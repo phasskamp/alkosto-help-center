@@ -3,7 +3,7 @@
   "collapsible": true,
   "collapsed": true,
   "link": {
-    "type": "generated-index",
-    "description": "Políticas de devolución, procesos y centros de servicio para tu tranquilidad."
+    "type": "doc",
+    "id": "index"
   }
 }

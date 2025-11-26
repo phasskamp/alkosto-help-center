@@ -3,7 +3,7 @@
   "collapsible": true,
   "collapsed": true,
   "link": {
-    "type": "generated-index",
-    "description": "Descubre Gana 50, hiperofertas y productos exclusivos."
+    "type": "doc",
+    "id": "index"
   }
 }
