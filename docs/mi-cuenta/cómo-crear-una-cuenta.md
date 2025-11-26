@@ -4,11 +4,55 @@ title: "¿Cómo crear una cuenta?"
 sidebar_label: "¿Cómo crear una cuenta?"
 ---
 
-[Centro de Ayuda Alkosto](javascript:void(0);) Ampliar búsqueda [Cerrar](javascript:void(0);) Buscar... BuscarBuscarCerrar Buscar... Cargando Buscar... Cuadro de diálogo Fin de búsqueda Cerrar búsqueda 1. [Mi Cuenta](/ayuda/s/topic/0TOQm0000001qfhOAA/mi-cuenta "Mi Cuenta") ## ### Información Título Estado de validación Validated Nombre de URL como-crear-una-cuenta Resumen Ayuda de Resumen ### Article Details Question Ayuda de Question # ¿Cómo crear una cuenta? Answer Ayuda de Answer # Cómo registrarte en Alkosto **¡Así de fácil es registrarte con nosotros!** Sigue estos simples pasos para empezar a disfrutar de nuestras ofertas y beneficios exclusivos. --- ## 1 Haz clic en "Mi Cuenta" Dirígete a la parte superior derecha de nuestro sitio web y selecciona la opción **"Mi Cuenta"**. ![](https://41k0st0.my.site.com/ayuda/servlet/rtaImage?eid=ka0Qm0000001fYz&feoid=00N8c00000H564C&refid=0EMQm00000H5yWS) --- ## 2 Ingresa tu correo electrónico En el formulario que aparece, escribe tu dirección de correo electrónico y haz clic en **"Continuar"**. ![](https://41k0st0.my.site.com/ayuda/servlet/rtaImage?eid=ka0Qm0000001fYz&feoid=00N8c00000H564C&refid=0EMQm00000H6819) --- ## 3 Completa tu información personal Escribe tus **nombres**, **apellidos** y **número de celular** en los campos correspondientes. ![Completa tu información personal](https://41k0st0.my.site.com/ayuda/servlet/rtaImage?eid=ka0Qm0000001fYz&feoid=00N8c00000H564C&refid=0EMQm00000EllGO) --- ## 4 Acepta el tratamiento de datos Marca la casilla para aceptar el uso y tratamiento de tus datos personales, y luego haz clic en **"Continuar"**. --- ## ✓ ¡Listo! Tu registro está completo **¡Listo!** Ya puedes empezar a disfrutar de tu experiencia como usuario registrado. ### 🎁 Beneficios de registrarte * Acceso a ofertas exclusivas * Seguimiento de tus pedidos * Guardado de direcciones y métodos de pago * Historial de compras ¿Necesitas ayuda? [Contacta con soporte](#) ### Properties Fecha de creación de artículo Ayuda de Fecha de creación de artículo 5/03/2025, 3:09 p. m. Creado por [Philipp Hasskamp](/ayuda/s/?redirectPageContext=JTdCJTIydHlwZSUyMiUzQSUyMmRldGFpbCUyMiUyQyUyMmF0dHJpYnV0ZXMlMjIlM0ElN0IlMjJyZWNvcmRJZCUyMiUzQSUyMjAwNVFtMDAwMDA0QkdsVklBVyUyMiU3RCUyQyUyMnN0YXRlJTIyJTNBJTdCJTdEJTdE "Philipp Hasskamp"), 21/07/2025, 6:24 p. m. Última modificación por [Philipp Hasskamp](/ayuda/s/?redirectPageContext=JTdCJTIydHlwZSUyMiUzQSUyMmRldGFpbCUyMiUyQyUyMmF0dHJpYnV0ZXMlMjIlM0ElN0IlMjJyZWNvcmRJZCUyMiUzQSUyMjAwNVFtMDAwMDA0QkdsVklBVyUyMiU3RCUyQyUyMnN0YXRlJTIyJTNBJTdCJTdEJTdE "Philipp Hasskamp"), 21/07/2025, 6:31 p. m. Fecha de la última publicación 21/07/2025, 6:31 p. m. ## Navegación * ## [Mi Cuenta](/ayuda/s/topic/0TOQm0000001qfhOAA/mi-cuenta) * ## [Pedidos Y Envíos](/ayuda/s/topic/0TOQm0000002MkPOAU/pedidos-y-envíos) * ## [Pagos](/ayuda/s/topic/0TOQm0000001rS5OAI/pagos) * ## [Cambios Y Garantías](/ayuda/s/topic/0TOQm0000001ra9OAA/cambios-y-garantías) * ## [Instalaciones](/ayuda/s/topic/0TOQm0000001rdNOAQ/instalaciones) * ## [Ofertas Y Promociones](/ayuda/s/topic/0TOQm0000001rezOAA/ofertas-y-promociones) * ## [Políticas Y Privacidad](/ayuda/s/topic/0TOQm0000001riDOAQ/políticas-y-privacidad) * ## [Contacto](/ayuda/s/topic/0TOQm0000001rjpOAA/contacto) * ## [Productos](/ayuda/s/topic/0TOQm0000001rblOAA/productos) * ## [Soporte Técnico](/ayuda/s/topic/0TOQm0000001rgbOAA/soporte-técnico) * ## [Pines](/ayuda/s/topic/0TOQm0000002Zo5OAE/pines) ## Artículos relacionados * [¿Qué debo tener en cuenta al recibir mi compra?](/ayuda/s/article/Qué-debo-tener-en-cue-Qué-debo-tener-en-cuenta-al-recibir-mi-compra-nta-al-recibir-mi-compra) Número de vistas64 * [¿Cómo iniciar sesión?](/ayuda/s/article/como-iniciar-sesion) Número de vistas235 * [¿Cómo puedo actualizar mi información en la página?](/ayuda/s/article/Cómo-puedo-actualizar-la-información-en-la-página) Número de vistas57 * [¿Cómo hago seguimiento a mi pedido?](/ayuda/s/article/Como-hago-seguimiento-a-mi-pedido) Número de vistas133 * [¿Cómo recuperar una contraseña?](/ayuda/s/article/recuperar-contrasena) Número de vistas204 ### Sobre Nosotros **Colombiana de Comercio S.A.** **NIT:** 890.900.943-1 ### Email sugerencias@alkosto.com ### Venta telefónica **Servicio al cliente:** (601) 407 3033 **Venta:** (601) 364 9734 - (601) 746 8001 - 018000 180222 --- Síguenos en: [![Facebook](https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/Megamenu/login-facebook.png "Facebook")](https://www.facebook.com/alkostohiperahorro) [![Twitter](https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/Megamenu/icon-x.png "Twitter")](https://twitter.com/Alkosto) [![YouTube](https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/Megamenu/icon-youtube.png "YouTube")](https://www.youtube.com/user/AlkostoHiperAhorro)
+# Cómo registrarte en Alkosto
 
+**¡Así de fácil es registrarte con nosotros!**
+
+Sigue estos simples pasos para empezar a disfrutar de nuestras ofertas y beneficios exclusivos.
+
+## Pasos para crear tu cuenta
+
+### 1. Haz clic en "Mi Cuenta"
+
+Dirígete a la parte superior derecha de nuestro sitio web y selecciona la opción **"Mi Cuenta"**.
+
+![](https://41k0st0.my.site.com/ayuda/servlet/rtaImage?eid=ka0Qm0000001fYz&feoid=00N8c00000H564C&refid=0EMQm00000H5yWS)
 
 ---
 
-**Source**: [https://41k0st0.my.site.com/ayuda/s/article/como-crear-una-cuenta](https://41k0st0.my.site.com/ayuda/s/article/como-crear-una-cuenta)
+### 2. Ingresa tu correo electrónico
 
-**Date**: nan
+En el formulario que aparece, escribe tu dirección de correo electrónico y haz clic en **"Continuar"**.
+
+![](https://41k0st0.my.site.com/ayuda/servlet/rtaImage?eid=ka0Qm0000001fYz&feoid=00N8c00000H564C&refid=0EMQm00000H6819)
+
+---
+
+### 3. Completa tu información personal
+
+Escribe tus **nombres**, **apellidos** y **número de celular** en los campos correspondientes.
+
+![Completa tu información personal](https://41k0st0.my.site.com/ayuda/servlet/rtaImage?eid=ka0Qm0000001fYz&feoid=00N8c00000H564C&refid=0EMQm00000EllGO)
+
+---
+
+### 4. Acepta el tratamiento de datos
+
+Marca la casilla para aceptar el uso y tratamiento de tus datos personales, y luego haz clic en **"Continuar"**.
+
+---
+
+## ✓ ¡Listo! Tu registro está completo
+
+**¡Bienvenido!** Ya puedes empezar a disfrutar de tu experiencia como usuario registrado.
+
+:::tip 🎁 Beneficios de registrarte
+* **Acceso a ofertas exclusivas**
+* Seguimiento de tus pedidos
+* Guardado de direcciones y métodos de pago
+* Historial de compras
+:::
+
+:::info ¿Necesitas ayuda?
+Si tienes problemas durante el registro, puedes [contactar con soporte](/docs/contacto).
+:::
