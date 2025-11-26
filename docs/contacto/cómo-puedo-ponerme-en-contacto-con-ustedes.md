@@ -11,7 +11,9 @@ sidebar_label: "¿Cómo puedo ponerme en contacto con ustedes?"
 :::
 
 
-### 1. Formulario de Contacto Si tienes alguna consulta o necesitas más información, puedes completar nuestro **Formulario de Contacto**.
+### 1.
+
+Formulario de Contacto Si tienes alguna consulta o necesitas más información, puedes completar nuestro **Formulario de Contacto**.
 
 Estaremos encantados de ayudarte y responder a todas tus preguntas. [Ir al Formulario de Contacto](https://www.alkosto.com/contacto/c/contacto)
 
@@ -26,12 +28,16 @@ A través del **chat en nuestra página web**, puedes contactarnos fácilmente p
 Llámanos directamente para recibir atención personalizada: 📞 Servicio al Cliente **Bogotá:** (601) 407 3033 **Línea Gratuita Nacional:** 018000 111 448 📞 Ventas Telefónicas (601) 7468001
 
 
-### 4. Redes Sociales Nos encantaría estar conectados contigo.
+### 4.
+
+Redes Sociales Nos encantaría estar conectados contigo.
 
 Síguenos en nuestras redes sociales, donde compartimos noticias, promociones y mucho más. [Alkosto Hiperahorro](https://www.facebook.com/alkostohiperahorro) [@Alkosto](https://x.com/Alkosto) [Alkosto HiperAhorro](https://www.youtube.com/user/AlkostoHiperAhorro)
 
 
-### 5. Tiendas Físicas Queremos asegurarnos de estar aquí cuando nos necesites.
+### 5.
+
+Tiendas Físicas Queremos asegurarnos de estar aquí cuando nos necesites.
 
 Visita nuestras tiendas físicas para una atención personalizada y consulta nuestros horarios de atención. [Ver Tiendas y Horarios](https://www.alkosto.com/nuestra-compania/tiendas)
 

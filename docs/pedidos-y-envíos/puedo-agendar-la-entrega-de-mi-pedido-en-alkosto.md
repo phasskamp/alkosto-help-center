@@ -11,12 +11,16 @@ sidebar_label: "¿Puedo agendar la entrega de mi pedido en Alkosto?"
 :::
 
 
-### 1. Elige tu Fecha y Horario Durante la Compra **Sí.** En Alkosto puedes elegir la fecha y el horario de entrega de tu pedido.
+### 1.
+
+Elige tu Fecha y Horario Durante la Compra **Sí.** En Alkosto puedes elegir la fecha y el horario de entrega de tu pedido.
 
 Durante el paso **"Método de envío"** en el proceso de compra, se te presentarán las opciones disponibles. Podrás seleccionar entre varias fechas próximas para la entrega.
 
 
-### 2. Selecciona tu Franja Horaria Además de la fecha, podrás elegir una de las siguientes franjas horarias:
+### 2.
+
+Selecciona tu Franja Horaria Además de la fecha, podrás elegir una de las siguientes franjas horarias:
 
 1. 
 

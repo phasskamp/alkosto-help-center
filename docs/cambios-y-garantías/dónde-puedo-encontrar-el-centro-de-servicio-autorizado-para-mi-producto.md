@@ -20,7 +20,9 @@ Puedes consultar la lista completa y actualizada de Centros de Servicio Autoriza
 Si necesitas ayuda para ubicar el centro más cercano o no encuentras uno en tu área, puedes comunicarte con nuestro equipo de atención al cliente para que te guíen en el proceso.
 
 
-### Líneas de Atención: **Bogotá:** (601) 407 3033 **Línea nacional gratuita:** 01 8000 111 448
+### Líneas de Atención:
+
+**Bogotá:** (601) 407 3033 **Línea nacional gratuita:** 01 8000 111 448
 
 
 :::info ¿Necesitas más ayuda?

@@ -11,7 +11,9 @@ sidebar_label: "¿Qué debo tener en cuenta al recibir mi compra?"
 :::
 
 
-## ✓ Puntos Clave al Recibir tu Pedido Para asegurar una recepción exitosa, por favor ten en cuenta las siguientes recomendaciones:
+## ✓ Puntos Clave al Recibir tu Pedido
+
+Para asegurar una recepción exitosa, por favor ten en cuenta las siguientes recomendaciones:
 1.  Revisa tu producto **antes de firmar** la nota de entrega.
 2.  Una **persona mayor de edad** debe estar presente para recibir.
 3.  Los transportadores no realizan instalaciones ni venden accesorios.

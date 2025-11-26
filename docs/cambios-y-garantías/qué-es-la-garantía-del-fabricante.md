@@ -13,7 +13,9 @@ sidebar_label: "¿Qué es la garantía del fabricante?"
 :::
 
 
-### 1. Definición y Cobertura La garantía del fabricante es el **compromiso que asume directamente la marca** del producto de reparar, reemplazar o reembolsar el artículo si presenta fallas técnicas o defectos de fabricación dentro de un plazo determinado.
+### 1.
+
+Definición y Cobertura La garantía del fabricante es el **compromiso que asume directamente la marca** del producto de reparar, reemplazar o reembolsar el artículo si presenta fallas técnicas o defectos de fabricación dentro de un plazo determinado.
 
 Generalmente cubre:
 
@@ -28,7 +30,9 @@ La información de esta garantía (plazos, condiciones y centros de servicio) se
 El tiempo de cobertura varía según la marca y el artículo.
 
 
-### 3. ¿Cómo Hacer Efectiva la Garantía? El trámite debe realizarse **directamente con el fabricante** o su red de soporte técnico.
+### 3. ¿Cómo Hacer Efectiva la Garantía? El trámite debe realizarse
+
+**directamente con el fabricante** o su red de soporte técnico.
 
 Sigue estos pasos:
 

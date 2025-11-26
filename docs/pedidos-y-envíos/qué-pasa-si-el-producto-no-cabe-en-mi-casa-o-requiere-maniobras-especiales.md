@@ -16,7 +16,9 @@ sidebar_label: "¿Qué pasa si el producto no cabe en mi casa o requiere maniobr
 Si por falta de espacio el producto no puede ser ingresado a tu hogar, lamentablemente se procederá con su **devolución**. **⚠️ Importante:** Antes de realizar tu compra, te recomendamos medir los espacios por donde debe pasar el producto (puertas, pasillos, escaleras, ascensores) y verificar las dimensiones del artículo en la ficha técnica.
 
 
-### 2. Maniobras no autorizadas Por razones de seguridad, nuestros transportadores **NO están autorizados** para realizar las siguientes maniobras:
+### 2.
+
+Maniobras no autorizadas Por razones de seguridad, nuestros transportadores **NO están autorizados** para realizar las siguientes maniobras:
 
 * Usar poleas o sistemas de elevación externos.
 * Ascender por fachadas o balcones.

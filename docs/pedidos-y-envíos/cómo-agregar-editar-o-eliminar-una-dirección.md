@@ -11,7 +11,9 @@ sidebar_label: "Cómo agregar, editar o eliminar una dirección"
 :::
 
 
-### 1. Ingresa a "Mis Direcciones" Desde tu cuenta de usuario, navega hasta la sección **"Direcciones de envío"** o **"Mis direcciones"**.
+### 1.
+
+Ingresa a "Mis Direcciones" Desde tu cuenta de usuario, navega hasta la sección **"Direcciones de envío"** o **"Mis direcciones"**.
 
 Generalmente la encontrarás en el menú de tu perfil.
 
@@ -23,7 +25,9 @@ Haz clic en **"Agregar una dirección"** y completa el formulario con los datos 
 
 Una vez que llenes todos los campos, haz clic en **"Guardar Dirección"**.
 
-### 3. Edita o Elimina una Dirección En cualquier momento puedes actualizar o eliminar las direcciones que ya no utilices.
+### 3.
+
+Edita o Elimina una Dirección En cualquier momento puedes actualizar o eliminar las direcciones que ya no utilices.
 
 Simplemente haz clic en el ícono de **editar (lápiz)** para modificarla, o en el ícono de **eliminar (papelera)** para quitarla.
 

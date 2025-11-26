@@ -23,7 +23,9 @@ Si después de los dos intentos no es posible realizar la entrega, el producto r
 
 Una vez allí, nuestro equipo de servicio al cliente se pondrá en contacto contigo.
 
-### 3. Reprogramación o Reembolso Juntos podremos coordinar una de las siguientes opciones, según tu preferencia:
+### 3.
+
+Reprogramación o Reembolso Juntos podremos coordinar una de las siguientes opciones, según tu preferencia:
 
 1. **Reprogramar la entrega** para una nueva fecha.
 2.  Coordinar un **reembolso** de tu dinero. **⚠️ Importante:** Para evitar inconvenientes, te recomendamos que una persona mayor de edad esté disponible en la dirección de entrega durante las fechas estimadas. Recuerda que nuestros transportadores no realizan llamadas previas. 

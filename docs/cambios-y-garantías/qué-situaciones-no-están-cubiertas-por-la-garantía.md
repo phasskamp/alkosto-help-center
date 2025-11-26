@@ -13,7 +13,9 @@ sidebar_label: "¿Qué situaciones no están cubiertas por la garantía?"
 :::
 
 
-## ! Exclusiones de la Garantía La garantía de un producto no aplica en los siguientes casos:
+## ! Exclusiones de la Garantía
+
+La garantía de un producto no aplica en los siguientes casos:
 * El producto presenta daños por no seguir las **instrucciones de instalación o uso**.
 * El daño es consecuencia de **accidentes, catástrofes naturales, uso indebido** o en condiciones ambientales deficientes.
 * El producto presenta daños causados por **fluctuaciones de voltaje** o descargas eléctricas.

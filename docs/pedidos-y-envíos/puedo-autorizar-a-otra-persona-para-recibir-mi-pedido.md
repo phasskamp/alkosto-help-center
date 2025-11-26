@@ -10,7 +10,9 @@ sidebar_label: "¿Puedo autorizar a otra persona para recibir mi pedido?"
 :::
 
 
-## ✓ Autorización de Terceros **Sí**, puedes autorizar a otra persona para que reciba tu pedido. La persona autorizada debe cumplir con los siguientes requisitos al momento de la entrega:
+## ✓ Autorización de Terceros **Sí**, puedes autorizar a otra persona para que reciba tu pedido.
+
+La persona autorizada debe cumplir con los siguientes requisitos al momento de la entrega:
 * Ser mayor de edad.
 * Presentar su cédula de ciudadanía original.
 * Firmar el comprobante de entrega. 

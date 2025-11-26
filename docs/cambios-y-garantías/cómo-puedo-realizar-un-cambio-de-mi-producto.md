@@ -16,9 +16,13 @@ sidebar_label: "¿Cómo puedo realizar un cambio de mi producto?"
 Verifica el Plazo y las Condiciones El tipo de trámite que puedes realizar depende del tiempo que ha transcurrido desde que recibiste el producto.
 
 
-### Dentro de los primeros 30 días: Puedes solicitar un **cambio o devolución** por falla del producto o por cambio de opinión.
+### Dentro de los primeros 30 días: Puedes solicitar un
 
-### Después de 30 días: Corresponde un **trámite de garantía** únicamente por defectos de fábrica.
+**cambio o devolución** por falla del producto o por cambio de opinión.
+
+### Después de 30 días: Corresponde un
+
+**trámite de garantía** únicamente por defectos de fábrica.
 
 ### 2.
 

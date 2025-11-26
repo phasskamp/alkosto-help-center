@@ -45,12 +45,16 @@ Haz clic en el enlace **"Olvidé mi contraseña"** y luego en el botón **"Conti
 
 **💡 Consejo:** Verifica que tu correo esté escrito correctamente antes de continuar. #
 
-### 5. Revisa tu correo electrónico Abre tu bandeja de entrada.
+### 5.
+
+Revisa tu correo electrónico Abre tu bandeja de entrada.
 
 Te llegará un correo de Alkosto con un enlace para recuperar tu contraseña. **⚠️ Importante:** Si no ves el correo, revisa tu carpeta de spam o correo no deseado. #
 
 
-### 6. Crea tu nueva contraseña Haz clic en el enlace del correo.
+### 6.
+
+Crea tu nueva contraseña Haz clic en el enlace del correo.
 
 Se abrirá una nueva ventana donde podrás **registrar tu nueva contraseña**.
 
@@ -80,7 +84,9 @@ Desliza hacia abajo si es necesario y toca la opción **"Mail y contraseña"**.
 
 #
 
-### 4. Toca "Olvidé mi contraseña" Busca el enlace **"Olvidé mi contraseña"** debajo del campo de contraseña y tócalo.
+### 4.
+
+Toca "Olvidé mi contraseña" Busca el enlace **"Olvidé mi contraseña"** debajo del campo de contraseña y tócalo.
 
 Luego toca **"Continuar"**.
 
@@ -89,12 +95,16 @@ Luego toca **"Continuar"**.
 
 #
 
-### 6. Abre tu app de correo Sal de la app/sitio de Alkosto y abre tu aplicación de correo electrónico (Gmail, Outlook, etc.). **📱 Nota:** El correo puede tardar unos minutos en llegar.
+### 6.
+
+Abre tu app de correo Sal de la app/sitio de Alkosto y abre tu aplicación de correo electrónico (Gmail, Outlook, etc.). **📱 Nota:** El correo puede tardar unos minutos en llegar.
 
 Actualiza tu bandeja de entrada deslizando hacia abajo. #
 
 
-### 7. Crea tu nueva contraseña Toca el enlace en el correo.
+### 7.
+
+Crea tu nueva contraseña Toca el enlace en el correo.
 
 Se abrirá tu navegador donde podrás crear tu **nueva contraseña**. [↑ Volver arriba](#desktop-section) **🔐 Recomendaciones para una contraseña segura:**
 
@@ -103,7 +113,9 @@ Se abrirá tu navegador donde podrás crear tu **nueva contraseña**. [↑ Volve
 * Usa números y símbolos especiales
 * No uses información personal obvia
 
-## ✓ ¡Listo! Contraseña actualizada ✅ Tu contraseña ha sido actualizada exitosamente. Ya puedes iniciar sesión con tu nueva contraseña.
+## ✓ ¡Listo! Contraseña actualizada ✅ Tu contraseña ha sido actualizada exitosamente.
+
+Ya puedes iniciar sesión con tu nueva contraseña.
 
 ### ¿Problemas frecuentes?
 * **No recibí el correo:** Espera unos minutos y revisa tu carpeta de spam

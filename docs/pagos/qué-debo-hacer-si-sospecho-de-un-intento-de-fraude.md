@@ -24,7 +24,13 @@ Si recibes un mensaje, llamada, correo o enlace sospechoso en nombre de Alkosto,
 En caso de duda, comunícate con nosotros **directamente** a través de nuestros canales oficiales para verificar la autenticidad de cualquier comunicación.
 
 
-### Canales de Servicio al Cliente: **Bogotá:** (601) 407 3033 **Línea nacional:** 01 8000 111 448 [Formulario de Contacto Oficial](https://www.alkosto.com/contacto) **⚠️ Recordatorio de Seguridad:** Alkosto **nunca** te solicitará datos sensibles como contraseñas o información completa de tus tarjetas por correo, SMS o redes sociales.
+### Canales de Servicio al Cliente
+
+* **Bogotá:** (601) 407 3033
+* **Línea nacional:** 01 8000 111 448
+* [Formulario de Contacto Oficial](https://www.alkosto.com/contacto)
+
+**⚠️ Recordatorio de Seguridad:** Alkosto **nunca** te solicitará datos sensibles como contraseñas o información completa de tus tarjetas por correo, SMS o redes sociales.
 
 Si crees que fuiste víctima de fraude, repórtalo de inmediato.
 

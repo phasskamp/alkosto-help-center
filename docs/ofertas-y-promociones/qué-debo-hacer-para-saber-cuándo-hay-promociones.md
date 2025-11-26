@@ -11,17 +11,23 @@ sidebar_label: "¿Qué debo hacer para saber cuándo hay promociones?"
 :::
 
 
-### 1. Fechas Especiales Durante el año tenemos fechas especiales donde encontrarás las mejores promociones y descuentos.
+### 1.
+
+Fechas Especiales Durante el año tenemos fechas especiales donde encontrarás las mejores promociones y descuentos.
 
 Mantente atento a estos meses: **📅 Abril:** Promociones especiales de temporada. **📅 Agosto:** Grandes ofertas a mitad de año. **📅 Diciembre:** Las mejores promociones de fin de año. **💡 Consejo:** Suscríbete a nuestro boletín de noticias para recibir notificaciones antes de cada fecha especial.
 
 
-### 2. Ofertas Exclusivas No esperes a las fechas especiales.
+### 2.
+
+Ofertas Exclusivas No esperes a las fechas especiales.
 
 Tenemos **hiperofertas** disponibles todo el año con descuentos increíbles en una amplia variedad de productos. [Ver Todas las Hiperofertas](https://www.alkosto.com/ofertas)
 
 
-### 3. Productos Exclusivos Descubre nuestra línea de **productos exclusivos**, diseñados especialmente para ofrecerte una experiencia única y diferenciadora.
+### 3.
+
+Productos Exclusivos Descubre nuestra línea de **productos exclusivos**, diseñados especialmente para ofrecerte una experiencia única y diferenciadora.
 
 Estos productos no los encontrarás en ningún otro lugar. [Explorar Productos Exclusivos](https://www.alkosto.com/productos-exclusivos/c/productos-exclusivos)
 

@@ -11,7 +11,9 @@ sidebar_label: "Cómo actualizar tu información en la página"
 :::
 
 
-### 1. Accede a "Mi Perfil" Inicia sesión en tu cuenta desde **"Mi cuenta"**.
+### 1.
+
+Accede a "Mi Perfil" Inicia sesión en tu cuenta desde **"Mi cuenta"**.
 
 Después de validar tu identidad con el código que te enviaremos, busca y haz clic en la sección **"Mi perfil"** en el menú de opciones.
 

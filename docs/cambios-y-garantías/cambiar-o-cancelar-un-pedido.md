@@ -12,7 +12,9 @@ sidebar_label: "Cambiar o cancelar un pedido"
 
 ### Email sugerencias@alkosto.com
 
-### Venta telefónica **Servicio al cliente:** (601) 407 3033 **Venta:** (601) 364 9734 - (601) 746 8001 - 018000 180222 --- Síguenos en: [
+### Venta telefónica
+
+**Servicio al cliente:** (601) 407 3033 **Venta:** (601) 364 9734 - (601) 746 8001 - 018000 180222 --- Síguenos en: [
 
 ![Facebook](https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/Megamenu/login-facebook.png "Facebook")
 

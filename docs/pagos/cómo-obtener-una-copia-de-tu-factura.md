@@ -20,7 +20,9 @@ En la página principal de Alkosto, haz clic en **"Mi cuenta"** y luego seleccio
 
 **💡 Consejo:** Esto te llevará a nuestro portal de descargas en una nueva pestaña.
 
-### 2. Consulta tu Factura Dentro del portal, haz clic en **"Consultar factura"**.
+### 2.
+
+Consulta tu Factura Dentro del portal, haz clic en **"Consultar factura"**.
 
 Luego, selecciona el tipo de documento que registraste al hacer la compra e ingrésalo para encontrar tus facturas.
 
