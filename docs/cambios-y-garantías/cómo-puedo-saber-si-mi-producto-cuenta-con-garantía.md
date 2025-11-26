@@ -8,6 +8,8 @@ sidebar_label: "¿Cómo puedo saber si mi producto cuenta con garantía?"
 * Si los productos vendidos por Alkosto tienen garantía.
 * Cómo verificar la vigencia y condiciones de la garantía.
 * Las diferentes formas de consultar la información de tu garantía.
+:::
+
 
 ### 1. Confirmación de Garantía **Sí, todos los productos nuevos** vendidos por Alkosto cuentan con una garantía legal otorgada directamente por el fabricante o proveedor. **💡 Importante:** El tiempo y las condiciones específicas de esta garantía pueden variar dependiendo del tipo de producto y la marca.
 

@@ -8,6 +8,8 @@ sidebar_label: "¿Qué debo hacer si tengo inconvenientes al realizar el pago?"
 * Identificar problemas comunes con los pagos.
 * Verificar la información de tu método de pago.
 * Cuándo y cómo contactar a nuestro equipo de soporte.
+:::
+
 
 ### 1. Verifica tu Información Antes de contactar a soporte, te recomendamos revisar que los datos de tu método de pago estén correctos. Los errores más comunes son:
 1. ▸ Número de tarjeta incorrecto.

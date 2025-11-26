@@ -8,6 +8,8 @@ sidebar_label: "¿Qué hago si no recibo mi pedido o llega incompleto?"
 * Cómo verificar el estado actual de tu pedido.
 * A quién contactar si hay un problema con tu entrega.
 * Qué información necesitas tener a mano para resolver tu caso.
+:::
+
 
 ### 1. Verifica el estado de tu pedido Antes de contactarnos, te recomendamos consultar el estado actual de tu entrega. Esto te ayudará a entender mejor la situación y nos permitirá atenderte de manera más eficiente. [👉 Seguir mi pedido ahora](https://www.alkosto.com/sigue-tu-pedido) **💡 Consejo:** Ten a mano tu número de pedido o factura para consultar el estado más rápidamente.
 

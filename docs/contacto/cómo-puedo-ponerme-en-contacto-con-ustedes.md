@@ -8,6 +8,8 @@ sidebar_label: "¿Cómo puedo ponerme en contacto con ustedes?"
 * Usar nuestro formulario de contacto y chat en línea.
 * Comunicarte con nosotros por teléfono o redes sociales.
 * Encontrar nuestras tiendas físicas y centros de servicio.
+:::
+
 
 ### 1. Formulario de Contacto Si tienes alguna consulta o necesitas más información, puedes completar nuestro **Formulario de Contacto**. Estaremos encantados de ayudarte y responder a todas tus preguntas. [Ir al Formulario de Contacto](https://www.alkosto.com/contacto/c/contacto)
 

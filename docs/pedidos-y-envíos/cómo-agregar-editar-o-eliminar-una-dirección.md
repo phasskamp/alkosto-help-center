@@ -8,6 +8,8 @@ sidebar_label: "Cómo agregar, editar o eliminar una dirección"
 * Acceder a la sección "Mis direcciones".
 * Agregar una nueva dirección de entrega.
 * Editar o eliminar direcciones existentes.
+:::
+
 
 ### 1. Ingresa a "Mis Direcciones" Desde tu cuenta de usuario, navega hasta la sección **"Direcciones de envío"** o **"Mis direcciones"**. Generalmente la encontrarás en el menú de tu perfil.
 

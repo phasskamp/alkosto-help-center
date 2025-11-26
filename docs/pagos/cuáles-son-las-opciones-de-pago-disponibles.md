@@ -8,6 +8,8 @@ sidebar_label: "¿Cuáles son las opciones de pago disponibles?"
 * Los principales medios de pago que aceptamos.
 * Las formas de financiación disponibles.
 * Cómo consultar todas las opciones y promociones vigentes.
+:::
+
 
 ### 1. Opciones de Pago Principales En Alkosto te ofrecemos múltiples formas de pago para brindarte la máxima comodidad y flexibilidad en tus compras:
 1. ▸ **Tarjetas de crédito:** Visa, MasterCard, American Express y más.

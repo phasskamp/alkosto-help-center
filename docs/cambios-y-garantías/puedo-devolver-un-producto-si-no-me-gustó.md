@@ -8,6 +8,8 @@ sidebar_label: "¿Puedo devolver un producto si no me gustó?"
 * Las condiciones para solicitar un cambio por retracto voluntario.
 * Qué productos están excluidos de esta política.
 * Cómo verificar si tu producto aplica para un cambio.
+:::
+
 
 ### 1. Condiciones para el Cambio Voluntario **Sí**, puedes solicitar el cambio de un producto por retracto voluntario si cumple con todas las siguientes condiciones:
 * El producto está **sin uso**, en perfectas condiciones estéticas y funcionales.

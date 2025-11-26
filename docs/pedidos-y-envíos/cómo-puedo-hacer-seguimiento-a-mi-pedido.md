@@ -8,6 +8,8 @@ sidebar_label: "¿Cómo puedo hacer seguimiento a mi pedido?"
 * Acceder al sistema de seguimiento de pedidos.
 * Consultar el estado de tu entrega con tu factura o número de pedido.
 * Entender la información que te proporciona el sistema.
+:::
+
 
 ### 1. Accede al Sistema de Seguimiento Para comenzar, haz clic en el siguiente botón para ir directamente a nuestra página de seguimiento. [Ir a Seguimiento de Pedidos](https://www.alkosto.com/sigue-tu-pedido)
 

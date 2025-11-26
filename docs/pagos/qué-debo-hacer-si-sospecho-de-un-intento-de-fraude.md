@@ -8,6 +8,8 @@ sidebar_label: "¿Qué debo hacer si sospecho de un intento de fraude?"
 * Cómo identificar un posible intento de fraude.
 * Las acciones inmediatas que debes tomar para protegerte.
 * Nuestros canales de contacto oficiales para reportar incidentes.
+:::
+
 
 ### 1. Recomendaciones Inmediatas Si recibes un mensaje, llamada, correo o enlace sospechoso en nombre de Alkosto, te recomendamos tomar las siguientes precauciones de inmediato:
 1. ▸ **No proporciones** datos personales, claves ni información financiera.

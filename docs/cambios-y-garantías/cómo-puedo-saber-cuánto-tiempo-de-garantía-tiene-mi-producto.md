@@ -10,6 +10,8 @@ sidebar_label: "¿Cómo puedo saber cuánto tiempo de garantía tiene mi product
 * La regla general de la garantía legal en Colombia.
 * Cómo verificar el tiempo exacto de garantía de tu producto.
 * Las diferentes formas de consultar la información.
+:::
+
 
 ### 1. Regla General de Garantía Por regla general, la garantía legal en Colombia es de **1 año** para productos nuevos, salvo que el fabricante indique un término diferente en el empaque o certificado del producto. **💡 Consejo:** Muchos productos tienen garantías mayores a un año, según lo establecido directamente por el fabricante.
 

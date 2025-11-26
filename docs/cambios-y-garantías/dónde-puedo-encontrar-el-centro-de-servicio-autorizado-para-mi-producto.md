@@ -8,6 +8,8 @@ sidebar_label: "¿Dónde puedo encontrar el Centro de Servicio Autorizado para m
 * Cómo encontrar el listado de Centros de Servicio Autorizados.
 * La información que encontrarás para cada centro.
 * Qué hacer si no hay un centro de servicio en tu ciudad.
+:::
+
 
 ### 1. Consulta el Listado en Línea Puedes consultar la lista completa y actualizada de Centros de Servicio Autorizado directamente en nuestra página web. [Buscar Centros de Servicio](https://www.alkosto.com/tramites/tramites-garantia/centros-servicios) **💡 Consejo:** En el listado encontrarás la dirección, teléfono y horarios de atención de cada centro, organizados por marca y ciudad.
 

@@ -8,6 +8,8 @@ sidebar_label: "¿Qué pasa si no estoy en casa al momento de la entrega?"
 * Cuántos intentos de entrega realizamos.
 * Qué sucede si no podemos entregar tu pedido.
 * Cómo reprogramar una entrega o solicitar un reembolso.
+:::
+
 
 ### 1. Intentos de Entrega No te preocupes. Si no te encuentras en casa, nuestro transportador intentará realizar la entrega de tu pedido en **dos ocasiones**.
 

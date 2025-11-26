@@ -8,6 +8,8 @@ sidebar_label: "¿Cómo puedo realizar un cambio de mi producto?"
 * Conocer las políticas de cambios y devoluciones.
 * Iniciar el proceso de cambio de tu producto.
 * Conocer las opciones de garantías disponibles. Selecciona según el tiempo transcurrido desde la entrega: [Primeros 30 días](https://www.alkosto.com/politicas/cambios-devoluciones) Cambio o devolución [Después de 30 días](https://www.alkosto.com/tramites/tramites-garantia) Trámite de garantía
+:::
+
 
 ### 1. Verifica el Plazo y las Condiciones El tipo de trámite que puedes realizar depende del tiempo que ha transcurrido desde que recibiste el producto.
 

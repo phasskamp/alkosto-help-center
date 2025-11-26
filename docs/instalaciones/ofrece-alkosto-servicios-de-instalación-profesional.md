@@ -8,6 +8,8 @@ sidebar_label: "¿Ofrece Alkosto servicios de instalación profesional?"
 * Si Alkosto ofrece servicios de instalación.
 * Qué productos aplican para este servicio.
 * La diferencia entre instalación gratuita y contratada.
+:::
+
 
 ### 1. Servicios de Instalación Profesional **Sí**, en Alkosto proporcionamos servicios de instalación profesional para una amplia variedad de productos, garantizando calidad y buenos precios. Algunos de los servicios disponibles son:
 * Televisores

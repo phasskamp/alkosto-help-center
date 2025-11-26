@@ -8,6 +8,8 @@ sidebar_label: "¿Cómo ganarme el 50%?"
 * Qué es el programa Gana 50.
 * Cómo participar automáticamente con tus compras.
 * Dónde consultar los términos y condiciones completos. 🎁
+:::
+
 
 ## ¡Gana 50! Obtén un bono de la mitad de tu compra
 

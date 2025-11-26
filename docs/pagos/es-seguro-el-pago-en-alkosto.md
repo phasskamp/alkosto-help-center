@@ -8,6 +8,8 @@ sidebar_label: "¿Es seguro el pago en Alkosto?"
 * Los estándares de seguridad que utilizamos para proteger tus datos.
 * Cómo garantizamos una experiencia de compra confiable.
 * Recomendaciones para realizar tus compras de forma segura.
+:::
+
 
 ### 1. Seguridad en Compras Online **Sí, tu compra es 100% segura.** En nuestro sitio web oficial, implementamos altos estándares de seguridad para proteger tus datos:
 1. ▸ Utilizamos **certificados de seguridad SSL** que cifran toda la información de tu compra.

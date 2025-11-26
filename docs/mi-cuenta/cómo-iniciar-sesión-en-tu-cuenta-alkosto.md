@@ -8,6 +8,8 @@ sidebar_label: "Cómo iniciar sesión en tu cuenta Alkosto"
 * Acceder a tu cuenta desde la página principal.
 * Verificar tu identidad de forma segura.
 * Usar métodos alternativos de ingreso.
+:::
+
 
 ### 1. Accede a "Mi Cuenta" Ve a **[www.alkosto.com](https://www.alkosto.com)**, haz clic en **"Mi cuenta"** en la esquina superior derecha e ingresa tu correo electrónico.
 

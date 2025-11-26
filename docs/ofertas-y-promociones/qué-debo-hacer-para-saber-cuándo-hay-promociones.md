@@ -8,6 +8,8 @@ sidebar_label: "¿Qué debo hacer para saber cuándo hay promociones?"
 * Conocer las fechas especiales con las mejores promociones.
 * Acceder a nuestras ofertas exclusivas e hiperofertas.
 * Descubrir nuestra línea de productos exclusivos.
+:::
+
 
 ### 1. Fechas Especiales Durante el año tenemos fechas especiales donde encontrarás las mejores promociones y descuentos. Mantente atento a estos meses: **📅 Abril:** Promociones especiales de temporada. **📅 Agosto:** Grandes ofertas a mitad de año. **📅 Diciembre:** Las mejores promociones de fin de año. **💡 Consejo:** Suscríbete a nuestro boletín de noticias para recibir notificaciones antes de cada fecha especial.
 

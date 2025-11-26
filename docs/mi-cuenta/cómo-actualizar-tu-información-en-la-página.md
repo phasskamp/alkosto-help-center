@@ -8,6 +8,8 @@ sidebar_label: "Cómo actualizar tu información en la página"
 * Acceder a la sección "Mi perfil" de tu cuenta.
 * Actualizar tus datos personales y de contacto.
 * Cambiar o crear tu contraseña de forma segura.
+:::
+
 
 ### 1. Accede a "Mi Perfil" Inicia sesión en tu cuenta desde **"Mi cuenta"**. Después de validar tu identidad con el código que te enviaremos, busca y haz clic en la sección **"Mi perfil"** en el menú de opciones.
 

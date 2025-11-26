@@ -8,6 +8,8 @@ sidebar_label: "Cómo recuperar tu contraseña"
 * Solicitar un enlace de recuperación de contraseña
 * Acceder a tu correo para recuperar tu cuenta
 * Establecer una nueva contraseña segura Selecciona tu dispositivo: [Computadora](#desktop-section) [Móvil](#mobile-section)
+:::
+
 
 ## Instrucciones para Computadora #
 

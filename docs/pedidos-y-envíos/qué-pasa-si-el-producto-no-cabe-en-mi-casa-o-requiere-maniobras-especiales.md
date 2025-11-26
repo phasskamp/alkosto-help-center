@@ -8,6 +8,8 @@ sidebar_label: "¿Qué pasa si el producto no cabe en mi casa o requiere maniobr
 * Qué sucede si tu producto no puede ingresar a tu hogar.
 * Cuáles maniobras están permitidas y cuáles no.
 * Costos adicionales por servicios especiales de instalación.
+:::
+
 
 ### 1. Si el producto no cabe Si por falta de espacio el producto no puede ser ingresado a tu hogar, lamentablemente se procederá con su **devolución**. **⚠️ Importante:** Antes de realizar tu compra, te recomendamos medir los espacios por donde debe pasar el producto (puertas, pasillos, escaleras, ascensores) y verificar las dimensiones del artículo en la ficha técnica.
 

@@ -8,6 +8,8 @@ sidebar_label: "¿Dónde puedo encontrar información sobre sus políticas y pri
 * Acceder a nuestras políticas de privacidad y términos
 * Conocer cómo protegemos tu información personal
 * Consultar nuestros códigos de ética y normas Centro de políticas y privacidad: [Ver Políticas](https://www.alkosto.com/politicas/privacidad)
+:::
+
 
 ## Políticas y Documentos Legales
 

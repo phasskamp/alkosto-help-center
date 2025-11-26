@@ -10,6 +10,8 @@ sidebar_label: "¿Qué situaciones no están cubiertas por la garantía?"
 * Las principales exclusiones de la garantía.
 * Situaciones que pueden invalidar la cobertura de tu producto.
 * La importancia de seguir las instrucciones de uso y manipulación.
+:::
+
 
 ## ! Exclusiones de la Garantía La garantía de un producto no aplica en los siguientes casos:
 * El producto presenta daños por no seguir las **instrucciones de instalación o uso**.

@@ -8,6 +8,8 @@ sidebar_label: "¿Cómo funciona la factura electrónica?"
 * Qué es la factura electrónica y su validez legal.
 * Cómo y dónde recibirás tu factura.
 * Los formatos disponibles (PDF y XML).
+:::
+
 
 ### 1. Recibe tu Factura por Correo Electrónico Para todas tus compras, tanto en tiendas físicas como en línea, tu factura electrónica será enviada al correo electrónico que registraste al momento de la transacción. **💡 Consejo:** En el correo encontrarás la factura adjunta en formatos **PDF** y **XML**, para tu conveniencia.
 

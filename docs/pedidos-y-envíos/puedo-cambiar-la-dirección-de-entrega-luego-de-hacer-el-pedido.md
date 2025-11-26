@@ -10,6 +10,8 @@ sidebar_label: "¿Puedo cambiar la dirección de entrega luego de hacer el pedid
 * En qué momento puedes cambiar tu dirección.
 * Los pasos para editar la dirección desde tu cuenta.
 * Qué hacer si necesitas ayuda con el cambio.
+:::
+
 
 ### 1. Condiciones para el Cambio **Sí, puedes cambiar la dirección de entrega** siempre y cuando tu pedido cumpla con una condición clave: ✅ El pedido aún no debe haber sido entregado ni estar en su ruta final de entrega.
 

@@ -8,6 +8,8 @@ sidebar_label: "¿Qué debo tener en cuenta al recibir mi compra?"
 * Cómo inspeccionar tu producto correctamente.
 * Qué hacer si tu producto llega con daños.
 * Puntos clave sobre el proceso de entrega.
+:::
+
 
 ## ✓ Puntos Clave al Recibir tu Pedido Para asegurar una recepción exitosa, por favor ten en cuenta las siguientes recomendaciones:
 1. ▸ Revisa tu producto **antes de firmar** la nota de entrega.

@@ -8,6 +8,8 @@ sidebar_label: "¿Dónde puedo encontrar información sobre los productos?"
 * Cómo navegar por nuestras categorías de productos.
 * Dónde encontrar las especificaciones completas de cada artículo.
 * Cómo consultar disponibilidad y opiniones de otros clientes. En Alkosto ponemos a tu disposición toda la información detallada sobre nuestros productos para que puedas tomar la mejor decisión de compra. A continuación te explicamos cómo encontrarla.
+:::
+
 
 ### 1. Explora por categorías Navega por nuestras diferentes categorías de productos para encontrar lo que necesitas de manera rápida y sencilla. Las categorías están organizadas por tipo de producto para facilitar tu búsqueda. 🏷️ Categorías principales Tecnología • Electrodomésticos • Hogar • Muebles • Deportes • Juguetes • Y muchas más
 
