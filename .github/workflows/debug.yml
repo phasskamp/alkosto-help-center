@@ -9,4 +9,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print Hello
-        run: echo "GitHub Actions is working correctly!"
+        run: echo "GitHub Actions is working correctly! Triggered by push."
