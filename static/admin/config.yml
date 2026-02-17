@@ -48,7 +48,7 @@ collections:
 
   - name: "cambios-y-garantias"
     label: "Cambios y Garantias"
-    folder: "docs/cambios-y-garantías"
+    folder: "docs/cambios-garantias"
     create: true
     slug: "{{slug}}"
     extension: md

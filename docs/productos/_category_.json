@@ -1,5 +1,6 @@
 {
   "label": "Productos",
+  "position": 8,
   "collapsible": true,
   "collapsed": true,
   "link": {

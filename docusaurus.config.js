@@ -17,7 +17,7 @@ const config = {
   // GitHub Pages URL
   url: 'https://phasskamp.github.io',
   // Use /alkosto-help-center/ for production, / for local dev
-  baseUrl: isProduction ? '/alkosto-help-center/' : '/',
+  baseUrl: '/',
 
   // GitHub config
   organizationName: 'phasskamp',
@@ -31,6 +31,10 @@ const config = {
     defaultLocale: 'es',
     locales: ['es'],
   },
+
+  scripts: [
+    'https://identity.netlify.com/v1/netlify-identity-widget.js',
+  ],
 
   presets: [
     [
@@ -89,7 +93,7 @@ const config = {
               { label: 'Mi cuenta', to: '/docs/mi-cuenta/' },
               { label: 'Pedidos y envíos', to: '/docs/pedidos-y-envíos/' },
               { label: 'Pagos', to: '/docs/pagos/' },
-              { label: 'Cambios y garantías', to: '/docs/cambios-y-garantías/' },
+              { label: 'Cambios y garantías', to: '/docs/cambios-garantias/' },
             ],
           },
           {

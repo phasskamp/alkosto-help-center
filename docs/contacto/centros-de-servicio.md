@@ -4,26 +4,17 @@ title: "Centros de servicio"
 sidebar_label: "Centros de servicio"
 ---
 
-## #
+## Encuentra tu Centro de Servicio Autorizado
 
-## Sobre Nosotros
+Para tramitar garantías o reparaciones, debes acudir a la red de servicios autorizada por la marca de tu producto.
 
-**Colombiana de Comercio S.A.** **NIT:** 890.900.943-1
+### ¿Cómo ubicar el centro más cercano?
 
-### Email sugerencias@alkosto.com
+1.  **Consulta el manual:** Revisa el certificado de garantía incluido en la caja de tu producto.
+2.  **Sitio web de la marca:** Visita la página oficial del fabricante (Samsung, LG, Sony, etc.) y busca la sección de soporte.
+3.  **Consulta nuestro directorio:** Puedes buscar el centro de servicio autorizado más cercano en el siguiente enlace:
+    [https://www.alkosto.com/tramites/tramites-garantia/centros-servicios](https://www.alkosto.com/tramites/tramites-garantia/centros-servicios)
 
-### Venta telefónica
+### ¿Necesitas ayuda adicional?
 
-**Servicio al cliente:** (601) 407 3033 **Venta:** (601) 364 9734 - (601) 746 8001 - 018000 180222 --- Síguenos en: [
-
-![Facebook](https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/Megamenu/login-facebook.png "Facebook")
-
-](https://www.facebook.com/alkostohiperahorro) [
-
-![Twitter](https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/Megamenu/icon-x.png "Twitter")
-
-](https://twitter.com/Alkosto) [
-
-![YouTube](https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/Megamenu/icon-youtube.png "YouTube")
-
-](https://www.youtube.com/user/AlkostoHiperAhorro)
+Si no encuentras la información que buscas, comunícate con nosotros al **(601) 4073033** y con gusto te indicaremos el punto de servicio más cercano a tu ubicación.

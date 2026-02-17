@@ -1,10 +1,8 @@
 ---
 id: qué-situaciones-no-están-cubiertas-por-la-garantía
-title: "¿Qué situaciones no están cubiertas por la garantía?"
-sidebar_label: "¿Qué situaciones no están cubiertas por la garantía?"
----
-
-# ¿En qué casos no aplica la garantía? 
+title: "¿En qué casos no aplica la garantía?"
+sidebar_label: "¿En qué casos no aplica la garantía?"
+--- 
 
 :::tip En este artículo aprenderás:
 * Las principales exclusiones de la garantía.

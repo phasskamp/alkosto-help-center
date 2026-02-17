@@ -1,5 +1,6 @@
 {
   "label": "Mi cuenta",
+  "position": 4,
   "collapsible": true,
   "collapsed": true,
   "link": {

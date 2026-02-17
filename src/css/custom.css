@@ -14,37 +14,37 @@
   --ifm-heading-font-family: 'Inter', system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
 
   /* Brand Colors */
-  --ifm-color-primary: #F7931E;
-  --ifm-color-primary-dark: #e8850f;
-  --ifm-color-primary-darker: #d17d19;
-  --ifm-color-primary-darkest: #ac6715;
-  --ifm-color-primary-light: #f89e35;
-  --ifm-color-primary-lighter: #f9a940;
-  --ifm-color-primary-lightest: #fbb362;
+  --ifm-color-primary: #F77F00;
+  --ifm-color-primary-dark: #de7200;
+  --ifm-color-primary-darker: #d26c00;
+  --ifm-color-primary-darkest: #ad5900;
+  --ifm-color-primary-light: #ff8c1a;
+  --ifm-color-primary-lighter: #ff9326;
+  --ifm-color-primary-lightest: #ffa64d;
 
   /* Alkosto Blue */
-  --alkosto-blue: #0A2540;
-  --alkosto-blue-light: #0D3A5C;
+  --alkosto-blue: #003B95;
+  --alkosto-blue-light: #004db3;
 
   /* Layout */
-  --ifm-navbar-height: 64px;
-  --ifm-container-width: 1140px;
+  --ifm-navbar-height: 70px;
+  --ifm-container-width: 1200px;
   --ifm-code-font-size: 95%;
 
   /* Cards & Shadows */
-  --ifm-card-border-radius: 12px;
-  --ifm-global-shadow-lw: 0 2px 8px rgba(0, 0, 0, 0.08);
-  --ifm-global-shadow-md: 0 5px 20px rgba(0, 0, 0, 0.12);
+  --ifm-card-border-radius: 16px;
+  --ifm-global-shadow-lw: 0 4px 12px rgba(0, 0, 0, 0.05);
+  --ifm-global-shadow-md: 0 8px 24px rgba(0, 0, 0, 0.1);
 }
 
 [data-theme='dark'] {
-  --ifm-color-primary: #F7931E;
-  --ifm-color-primary-dark: #e8850f;
-  --ifm-color-primary-darker: #d17d19;
-  --ifm-color-primary-darkest: #ac6715;
-  --ifm-color-primary-light: #f89e35;
-  --ifm-color-primary-lighter: #f9a940;
-  --ifm-color-primary-lightest: #fbb362;
+  --ifm-color-primary: #F77F00;
+  --ifm-color-primary-dark: #de7200;
+  --ifm-color-primary-darker: #d26c00;
+  --ifm-color-primary-darkest: #ad5900;
+  --ifm-color-primary-light: #ff8c1a;
+  --ifm-color-primary-lighter: #ff9326;
+  --ifm-color-primary-lightest: #ffa64d;
 }
 
 /* ========================================
@@ -277,7 +277,129 @@ html {
 }
 
 /* Better focus states */
-*:focus-visible {
-  outline: 2px solid var(--ifm-color-primary);
-  outline-offset: 2px;
+/* ========================================
+   DOCUSAURUS GENERATED CARDS (Category Pages)
+   ======================================== */
+.card {
+  border: 1px solid #eee;
+  transition: all 0.25s ease;
+  height: 100%;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+  border-color: var(--ifm-color-primary);
+  text-decoration: none !important;
+}
+
+/* Card Title */
+.card h2 {
+  color: var(--alkosto-blue) !important;
+  font-size: 1.1rem;
+  margin-bottom: 0.25rem;
+  border-bottom: none;
+  /* Fix truncation: ensure full title is visible */
+  white-space: normal !important;
+  overflow: visible !important;
+  text-overflow: clip !important;
+  display: block !important;
+  -webkit-line-clamp: unset !important;
+  -webkit-box-orient: unset !important;
+}
+
+/* Card Description */
+.card p {
+  color: #666;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  margin-bottom: 0;
+}
+
+/* Remove the orange color from the description if it was inheriting */
+.card p a {
+  color: #666;
+}
+
+/* Grid View for Category Cards (Restored) */
+.card {
+  border: 1px solid #eee;
+  transition: all 0.25s ease;
+  height: 100%;
+  display: flex !important;
+  flex-direction: column;
+  justify-content: space-between;
+  /* Ensure content and link are spaced */
+  padding: 1.5rem !important;
+  position: relative;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  border-color: var(--ifm-color-primary);
+  text-decoration: none !important;
+}
+
+/* "Ver artículos" link simulation */
+.card::after {
+  content: 'Ver artículos →';
+  display: block;
+  margin-top: 1rem;
+  color: #D50000;
+  /* LATAM-like red/pink color */
+  font-weight: 700;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+}
+
+.card:hover::after {
+  text-decoration: underline;
+  transform: translateX(3px);
+}
+
+/* ========================================
+   SPECIFIC SECTION STYLING
+   ======================================== */
+/* 'Problemas frecuentes' section in articles */
+h2#problemas-frecuentes {
+  font-size: 1.25rem;
+  margin-top: 4rem;
+  padding-top: 2rem;
+  border-top: 2px solid #f0f0f0;
+  color: var(--alkosto-blue);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  letter-spacing: -0.01em;
+}
+
+/* ========================================
+   ADMONITION CUSTOMIZATION (Alkosto Style)
+   ======================================== */
+/* Green Box (Tip) - Matches "Primeros 30 días" */
+.alert--success {
+  background-color: #E6F4EA;
+  border-color: #1E8E3E;
+  border-width: 0 0 0 6px;
+  color: #1E8E3E;
+}
+
+.alert--success .admonition-heading {
+  color: #1E8E3E;
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+
+/* Yellow Box (Warning) - Matches "Después de 30 días" */
+.alert--warning {
+  background-color: #FEF7E0;
+  border-color: #FBC02D;
+  border-width: 0 0 0 6px;
+  color: #856404;
+}
+
+.alert--warning .admonition-heading {
+  color: #856404;
+  font-weight: 700;
+  font-size: 1.1rem;
 }

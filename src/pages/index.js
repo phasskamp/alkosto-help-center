@@ -30,7 +30,7 @@ const FeaturedCategories = [
 const OtherCategories = [
   {
     title: 'Cambios y garantías',
-    link: '/docs/cambios-y-garantías/',
+    link: '/docs/cambios-garantias/',
     description: 'Políticas de devolución, procesos y centros de servicio para tu tranquilidad.',
     image: '/img/categories/cambios-garantias.svg',
   },

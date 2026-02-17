@@ -4,7 +4,7 @@ title: "¿Cómo crear una cuenta?"
 sidebar_label: "¿Cómo crear una cuenta?"
 ---
 
-# Cómo registrarte en Alkosto
+**Tiempo estimado:** 2 minutos
 
 **¡Así de fácil es registrarte con nosotros!**
 
