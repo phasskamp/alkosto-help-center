@@ -17,7 +17,7 @@ const config = {
   // GitHub Pages URL
   url: 'https://phasskamp.github.io',
   // Use /alkosto-help-center/ for production, / for local dev
-  baseUrl: '/',
+  baseUrl: '/alkosto-help-center/',
 
   // GitHub config
   organizationName: 'phasskamp',
